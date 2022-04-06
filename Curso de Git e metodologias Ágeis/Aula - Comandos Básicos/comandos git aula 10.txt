@@ -1,0 +1,15 @@
+Resolvendo conflitos:
+quando der o git push e aparecer que rejeitou as mudanças, usa o:
+git fetch -> faz o download das alterações que estão no repositório remoto(equivale ao git pull, mas não faz o merge, a fusão dos
+projetos)
+verificar o repositório remoto:
+git remote
+trocar de branch para a origin
+git checkout origin -> para verificar as alterações
+volta para a master(main)
+git checkout main
+e agora usa o comando:
+git pull -> para resolver os conflitos
+abre o vs code e lá vão ter as 4 opções de resolver o problemas, como foi tratado nas aulas anteriores.
+Para configurar o editor de texto padrão é só usar o:
+git config --global core.editor code(ou outro de sua preferência)
