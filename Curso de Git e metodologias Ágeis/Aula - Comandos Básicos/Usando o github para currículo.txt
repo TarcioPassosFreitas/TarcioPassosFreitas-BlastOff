@@ -1,0 +1,11 @@
+pesquisar language:java (por exemplo)
+location:Brazil, sp, São paulo
+
+explore > tópico > filtrar por tópico
+
+jobs.github.com
+
+Escolher a licença na hora de criar um repositório ou colocar Licence e vai abrir uma aba para configurar as licenças e depois faz um
+commit.
+
+adicionar tópicos
