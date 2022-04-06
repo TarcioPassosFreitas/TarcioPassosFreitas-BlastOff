@@ -1,0 +1,17 @@
+Fazendo fork e usando pull request
+fork: Faz a clonagem de um repositório diretamente para o seu github, ao fazer o fork vc consegue fazer qualquer tipo de alteração
+no repositório clonado, sem a alteração do repositório original
+Caso queira fazer uma alteração, contribuição para o projeto original, pode fazer um pull request para sinalizar as alterações
+para o dono do projeto
+Quando o dono receber o pull request ele pode aceita rou não as mudanças
+pull request é uma forma de vc contribuir com os projetos da comunidade
+pra fazer o fork, vc deve:
+ir no repositório que vc quer fazer o fork -> apertar na opção fork na parte superior direita da página
+Caso faça alguma alteração e faça o commit que é necessário depois da alteração, vc estará contribuindo, caso queira contribuir
+com o projeto original, vc pode aperta no botão pull request(new pull request)
+ele vai verificar se tem conflito e depois clica em create pull request
+
+Caso queira aceitar o pull request
+vai no projeto e lá nas abas vai aparecer sinalizado que tem um pull request -> clica nele
+vê as alterações
+vai em conversation e se quiser pode dar um merge pull request
