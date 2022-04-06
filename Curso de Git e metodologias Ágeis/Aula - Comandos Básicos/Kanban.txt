@@ -1,0 +1,14 @@
+sistema visual de gerecinamento de projetos
+cartão ou sinalização
+   to do		in progress		Done
+(para fazer)		 (Fazendo)	       (Feito)
+
+no github vc vai dentro do repositório em:
+Projects -> create a project -> preenche as informações
+tem templates. O projeto do github se integra com issues(problemas) que podem ser contribuição da comunidade
+cria o projeto
+você precisa adicionar colunas
+nos cartões, da pra usar a linguagem mackdown 
+- [] "logotipo, pode ser qualquer nome" -> cria uma lista clicável do que foi feito
+submultiplos da lista é só dar dois espaços
+para inserir ícone -> :nome do ícone
