@@ -1,0 +1,5 @@
+git remote -> verifica se o projeto já tem um repositório remoto
+Criado o repositório usar o comando que vai ter lá:
+git remote add origin (link) -> ligando o repositório local ao remoto
+depois usa o segundo comando que tem lá
+git push -u origin master -> o primeiro push é desse jeito

@@ -1,0 +1,5 @@
+Ls -> Lista diretório
+mkdir (qualquer coisa) cria uma pasta com o devido nome
+touch (exemplo.txt) cria um arquivo no formato txt
+touth teste/exemplo2 - cria um arquivo dentro da pasta teste
+ls -a -> verifica a pasta .git

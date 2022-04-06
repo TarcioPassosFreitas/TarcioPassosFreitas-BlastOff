@@ -1,0 +1,4 @@
+teste
+Entendendo o HEAD
+Essa linha foi modificada no ramo main
+Esta linha foi modificada no ramo teste

@@ -1,0 +1,5 @@
+git init -> inicializar repositório git
+git status -> verifica o status do seu repositório. verifica se os itens já foram colocados no container, como faz alteração
+git add -> Pega as alterações e coloca na área de staging
+git commit -> salva as alterações que estão na área de staging
+git log -> Consegue ver as versões salvas

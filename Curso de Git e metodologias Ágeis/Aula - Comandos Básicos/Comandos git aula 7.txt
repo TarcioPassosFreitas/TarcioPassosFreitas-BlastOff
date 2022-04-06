@@ -1,0 +1,18 @@
+Para criar uma nova ramificação usa-se:
+git checkout -b (nome da nova branch)
+O teste herda tudo do ramo principal
+git log --oneline --graph --all -> conseguimos ver a ramificação no grafo
+Fusão das branchs
+Precisa estar no ramo master(main)
+git merge (nome da branch que quer unir à branch master(main))
+Surgiu conflito, vai no vs code, e lá vai aparecer onde está o conflito, lá aparece um menu com as opções de resolução
+O primeiro mantém só o primeiro arquivo
+o segundo, vai manter só o segundo arquivo
+o terceiro, vai manter as duas linhas
+O quarto, vai fazer uma comparação mais refinada do código
+Depois de resolver os conflitos, coloca git status
+Para abortar o processo de merge, pode usar o:
+git merge --abort
+Se já resolveu os conflitos e quer continuar o merge:
+faz um novo git add e um novo commit
+e pronto, juntou as duas branchs

@@ -1,0 +1,14 @@
+git log --oneline -> simplificação do hash que pega cada commit
+git log graph -> aparecem os nodos e as linhas que ligam esse nodos
+git commit -am "qualquer coisa" -> já adiciona tudo e commita
+git branch -> identifica o ramo que se encontra
+git checkout (código) -> muda para a branch(vc pode navegar entre as branchs)
+quer voltar para a branch que tem a última alteração salva? git checkout master(no pc aqui é main no lugar de master)
+git diff -> verificar alterações feitas
+Não quer as alterações feitas? usa o git status que vai dizer o seguinte, use:
+git checkout (arquivo) -> que vai desfazer as alterações feitas 
+Depois que tiver adicionado as alterações no container, não vai conseguir ver as diferenças através do comando git diff
+Mas caso queira desfazer alguma alteração, use o git status que vai dizer o seguinte, use:
+git reset HEAD -> remove o conteúdo salvo, do container
+Como remover o commit e voltar para a versão anterior?
+git reset --hard (código, hash) ( Muito cuidado com esse comando)
