@@ -1,0 +1,4 @@
+Github pages: permite a hospedagem gratuita de um site pessoal vinculado a seu usuário github ou um site de um projeto específico de 
+qualquer repositório é possível inclusive vincular um domínio personalizado.
+cria repositório -> upload files(seleciona todo os elementos do site) -> faz commit -> seetings -> Em GitHub pages
+ -> seleciona master branch -> e mais em baixo ele vai te dar o link do site hospedado -> e pronto, foi criado.
