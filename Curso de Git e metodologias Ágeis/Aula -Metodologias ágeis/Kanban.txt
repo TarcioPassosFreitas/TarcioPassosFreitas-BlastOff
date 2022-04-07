@@ -1,0 +1,36 @@
+kanban é com k minúsculo é quadro como fluxo de trabalho
+Kanban com K maiúsculo é o método de desenvolvimento ágil criado em 2005, influenciado pelo Sistema Toyota de Produção
+
+Kaiaku: comportamento  organizacional,  em  que  determinada mudança  do  status  quo  dentro  de  um 
+ espaço  de  tempo  limitado    impactará  a capacidade organizacional
+kaizen: visa ciclos de iterações e melhorias contínuas referentes à mudança organizacional, com o 
+objetivo de eliminar desperdícios e fazer “Hoje melhor do que ontem, amanhã melhor do que hoje!”
+
+Princípios:
+	.Comece com o que você tem hoje
+	.Concorde em propor mudanças incrementais e evolucionárias
+	.Respeite o processo atual, papéis, responsabilidade e títulos
+	.Encoraje atos de liderança em todos os níveis
+
+Práticas:
+	.Visualizar  o  fluxo  de  trabalho
+	.Limitar  o  trabalho  em  progresso ou WIP  (Work  in Progress),
+	.Gerenciar  e  medir  o  fluxo
+	.Tornar as políticas de processo explícitas
+	.Implementar ciclos de feedback
+	.Melhore  colaborativamente
+
+Elementos do Sistema:
+	.Quadro  kanban
+	.Colunas   do   kanban
+	.Raias: horizontais. utilizadas   para   destacar 
+visualmente um diferente tipo de atividade, como, por exemplo, algo urgente, 
+normalmente a raia de algo urgente é chamada de fast-laneou expedite
+	.Cartões (maioria das vezes post-itsem  quadros  físicos)
+	.Limite  de  WIP: O  limite  do  trabalho  em  progresso  é  um  
+elemento fundamental para organização do fluxo, o mundo ideal seria que o limite do WIP 
+ fosse  igual  em todas  as  etapas  do  processo.
+	.Políticas  explícitas
+
+Curiosidade:
+A junção do framework Scrum e do método Kanban está sendo denominada no mercado como Scrumban.
