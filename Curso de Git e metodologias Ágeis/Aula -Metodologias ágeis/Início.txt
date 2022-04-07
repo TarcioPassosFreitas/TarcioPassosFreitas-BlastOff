@@ -1,0 +1,71 @@
+Elas forampensadas para serem utilizadas na área de desenvolvimento de software, para tornar os processos 
+menos burocráticos, mais rápidos e mais econômicos.
+
+Propósito de dividir projetos complexos em pequenas tarefas
+
+2001 -> manifesto do desenvolvimento ágil de software
+	. Valorizar mais as pessoas e as interações humanas que as ferramentas 
+	. Desenvolver softwares trabalhando com documentações mais abrangentes
+	. Ter foco na geração de valor para o cliente
+	. Focar em testes contínuos e na adaptação á mudanças rápidas ao longo de cada projeto
+
+Projetos separados em pequenos passos que são mais objetivos e mais rápidos de serem concluídos
+
+##Metodologia Scrum:
+Dividir cada projeto em pequenas tarefas
+Cada ciclo dessa tarefa é chamada de sprint 
+Cada Sprint serve para que a equipe foque na resolução do problemas proposto(entrega de resultados por meio de trabalho conjunto)
+No início de cada sprint, temos o sprint planning(reunião de planejamento para planos e metas)
+Também usa o Daily scrum diário (reuniões com a equipe diária para tornar a comunicação do time melhor e identificar melhorias e problemas)
+No fim de cada sprint deve ter o sprint review(apresentação do que foi concluído e do próximo sprint). 
+Nessa fase devemos ser avaliados e receber feedback do trabalho feito
+
+Resumo:
+
+1. Projetos -> tarefas
+2. Sprint planning (planos e metas para o sprint)
+3. Daily Scrum diário (Reuniões diárias)
+3. Sprint (entrega de resultados)
+4. Sprint review (Produto concluído e feedback)
+
+Product backlog -> sprint backlog -> daily scrum meeting -> product increment
+
+
+##Kanban
+Divisão de tarefas através de quadros.
+Cards: Tarefas a serem feitas, em andamento e concluídas
+exemplo: trello
+
+##Metodologia Squad
+é um modelo organizacional
+Não divide os times de forma tradicional(departamento de ti, vendas, logística)
+Objetivo é agrupar os profissionais em times multidiciplinares de acordo com os projetos que estão sendo desenvolvidos
+Cada projeto se torna mais dinâmico com pessoas com diferentes experiências e conhecimentos
+Não há hierarquias dentro dos times
+Fica mais fácil identificar problemas e melhorias, aumentando a qualidade do resultado final da entrega
+
+## XP (extreme programming)
+Criar produto com a maior qualidade possível
+aumentar o engajamento e satisfação do time
+	.aceitação
+	.Flexibilidade a alterações
+	.coragem
+	.respeito entre os membros do time
+	.feedbacks constantes com o cliente
+	.Comunicação mais direta e simplificada
+
+Pq usar metologias ágeis?
+. Redução de erros e mais economia
+. Maior colaboração e criação de valor mútuo entre clientes e empresas
+. Projetos mais simples e customizáveis
+
+Toyota inovou usando o kanban (cartão ou sinalização). 
+Just-in-time(produzir o que é necessário, no momento necessário e na quantidade necessária)
+O processo industrial foi chamado de TPS (Toyota production System)
+
+Saindo do modelo de desenvolvimento Industrial e indo para modelo de desenvolvimento de software temo:
+Modelo em Cascata(waterfall mode)
+uma sequência  de  fases  no  desenvolvimento  de  software  que  são:  
+análise  e  definição  dos requisitos, design, desenvolvimento, testes e manutenção.
+
+
