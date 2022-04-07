@@ -1,0 +1,4 @@
+Shields.io
+verifica o selo que quer -> preenche as informações com o nome e link do repositório -> será gerado um código markdown -> edita o Readme
+colando esse código gerado onde vc quer que apareça o código e pronto
+Depois faz o commit e pronto
