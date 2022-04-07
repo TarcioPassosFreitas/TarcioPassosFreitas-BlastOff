@@ -1,0 +1,23 @@
+Criado em 1997
+procura levar ao extremo as boas práticasde engenharia de software,
+ com foco em agilidade e qualidade, e assim como o Scrum e Kanban, se apoia em valores e práticas.
+Valores:
+	.Comunicação
+	.Simplicidade
+	.Feedback
+	.Coragem
+	.Respeito
+
+Práticas:
+	.Propriedade  Coletiva  (Collective  Ownership)
+	.Padronização de Código (Coding Standards)
+	.Versões  Pequenas  (Small  Releases)
+	.Planejando  o  jogo  (Planning  Game)
+	.Testes de aceitação (Customer Tests)
+	.Programação  Pareada  (Pair  Programming)
+	.Desenvolvimento orientado a testes (Test Driven Development)
+	.Integração   contínua   (Continuous   Integration)
+	.Design  Simples  (Simple  Design)
+	.Refatoração    (Refactoring)
+	.Metáforas  (Metaphor)
+	.Semana  de  40  horas  (Sustainable  Pace)
