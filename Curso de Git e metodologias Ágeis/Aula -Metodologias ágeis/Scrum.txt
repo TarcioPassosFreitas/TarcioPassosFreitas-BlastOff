@@ -1,0 +1,51 @@
+Pilares Scrum: Trasnparência, inspeção, adaptação
+Papeis fundamentais Scrum: 
+	.Product  Owner  (PO): (Dono do produto) o  dono  do  produto,  o  único responsável por decidir quais 
+os recursos e funcionalidades o produto deve  ter e qual a ordem de prioridade que deve ser desenvolvido.
+====================(priorizar as necessidades de negócio e tocar o produto.)==================================
+	.Scrum  Master  (SM):Ele atua como um líder do processo e ajuda os demais a  desenvolver  
+sua  própria  forma  de  trabalho  com  Scrum. o  Scrum  Master  deve procurar   o   desenvolvimento   do   
+time   para   que os   mesmos   sejam independentes.
+====================(“girar a roda” do framework Scrum junto ao time)==========================================
+	.Time  Scrum: Time  de  desenvolvimento  que  possui  vários  membros  com diferentes   funções,   que   possuem   
+as   habilidades   necessárias   para   o desenvolvimento do software, é o Time Scrum que decide 
+como fazer para se alcançar o objetivo do desenvolvimento. Normalmente é composto de 4 a 8 pessoas.
+====================(realizar  o  que  foi  acordado)==========================================================
+
+=========================================IMPORTANTE!!!!========================================================
+
+No Scrum tudo começa com a visão de um produto, em que o Product Owner
+descreve o que ele quer do produto e aonde quer chegar, e, dada a visão macro, 
+o Product Owner lista as funcionalidades necessárias, essa lista é o artefato Product Backlog.
+===============================================================================================================
+
+Product Owner -> Product backlog(funcionalidades necessárias)
+product backlog -> User Stories(cada funcionalidade do backlog)(chamada de história de usuário)
+Possui como objetivo explicar a funcionalidade de forma simples, deixando claro quem é o usuário, 
+o que ele quer e para qual objetivo.
+
+=========================================IMPORTANTE!!!!========================================================
+Caso existam dúvidas referentes aos tamanhos das atividades, utilizamos o Planning Pokerpara auxiliar na decisão,
+na qual, dado o escopo, os integrantes realizam votações com cartas para expor sua opinião referenteao tamanho daquela 
+User Story. 
+===============================================================================================================
+
+Planning Estratégicoque define o que será feito
+Planning Táticoque define como será feito
+
+Pergunta do daily:
+
+O que eu fiz ontem que contribuiu para o atingimento da meta do Sprint?  
+O que eu farei hoje para contribuir para o atingimento da meta do Sprint? 
+Existe alguma circunstância que impeça a mim ou ao time atingir a meta do Sprint? 
+
+Máximo do daily 15 minutos
+todos de pé(técnica chamada de (Stand-Up Meeting)
+
+
+Durante o Sprint
+Definition of Done(DoD):é um acordo formal do time que define claramente quais são 
+os passos mínimos para a conclusão de um item potencialmente entregável.
+
+No momento do sprint review é feito também o Sprint  Retrospective que tem   como   objetivo   verificar   
+necessidades   de adaptações e melhoria no processo de trabalho como um todo.
