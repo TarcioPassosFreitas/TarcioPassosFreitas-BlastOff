@@ -68,4 +68,20 @@ Modelo em Cascata(waterfall mode)
 uma sequência  de  fases  no  desenvolvimento  de  software  que  são:  
 análise  e  definição  dos requisitos, design, desenvolvimento, testes e manutenção.
 
+COntexto histórico:
+Líderes da comunidade Extreme programming(XP), chegaram a um consenso sobre pontos importantes referentes ao desenvolvimento de software
+Escreveram um documento que foi o Manifesto Ágil.
+
+Manifesto ágil possui 4 valores e 12 princípios
+
+##Valores
+	.Indivíduos e iteraçõesmais que processos e ferramentas
+	.Software   em   funcionamentomais   que   documentação   abrangente
+	.Colaboração com o clientemais que negociação de contratos
+	.Responder  a  mudanças mais  que  seguir  um  plano
+
+FATO: Muitas pessoas acham que as metodologias ágeis são “ágeis” 
+por que são rápidas e entregam funcionalidades o quanto antes, e na 
+verdade a agilidade simboliza a capacidade de se adaptar a mudanças, a 
+velocidade nas entregas é uma consequência que acontece quando utilizamos adequadamente as metodologias
 
