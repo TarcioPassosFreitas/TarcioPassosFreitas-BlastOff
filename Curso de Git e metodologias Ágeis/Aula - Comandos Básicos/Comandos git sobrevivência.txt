@@ -1,0 +1,52 @@
+editando último commit feito: 
+git commit --amend
+git reset (código hash)
+
+git rebase
+Apagando commit (reverter bug na master)
+Pega o hash do commit que vc fez e bugou tudo
+e usa o:
+git revert (passando o hash que bugou)
+o git revert ele cria um novo commit com todas as alterações salvas, exceto com o commit que foi passado como parâmetro
+
+Problema de sincronização com local e remoto
+git pull = git fetch + git merge
+
+git pull --rebase (por baixo dos panos iria fazer o fetch e faria um rabase através de sua origem com a master que vc tem)
+
+git add .
+git merge --continue
+
+por meio do rebase, resolve os problemas um por um
+
+Melhorando histórico com squash e fixup
+Para trazer as alterações usa:
+git rebase -i master(main) -> tudo que for diferente ele joga pra cima
+git push --force-with-lease
+
+Qual fluxo de trabalho no github:
+Centralizado:
+	repositório compartilhado
+developer	developer	developer(time pequeno)
+git push	git pull origin master --rebase
+
+
+Git flow
+
+git reflog (reverter aquilo que vc achou que tinha perdido dentro do seu repositório git)
+quis reverter e sem querer usou o:
+git reset --hard (código hash) -> perde tudo que tinha
+usa então o git reflog:
+verifica o que foi mudado e depois aplica o:
+git restore .
+
+Dicas Gerais
+usar ferramenta visualizing git para treinar os comandos
+
+git stash -> imagina que quer ajudar um amigo em uma branch e não quer perder o que tava fazendo sendo que não quer salvar, você digita
+git stash, muda de branch, faz o que quiser e dpeois que quiser recuperar usa o git stash apply stash@{0} e a posição do stash. 
+para verificar o que tem no stash, coloca: git stash list
+
+git blame -> Ter o feedback de quem fez alguma coisa ou usa o git lens
+
+git rerere -> para quando usar rebase, pesquisar
