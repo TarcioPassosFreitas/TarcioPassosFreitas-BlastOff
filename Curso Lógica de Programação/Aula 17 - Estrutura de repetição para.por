@@ -3,7 +3,8 @@ programa
 	
 	funcao inicio()
 	{
-		para (inteiro contador = 1; contador <= 10; contador++)
+		inteiro contador
+		para (contador = 1; contador <= 10; contador++)
 		{
 			escreva(contador + "\n")
 		}
@@ -14,7 +15,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 126; 
+ * @POSICAO-CURSOR = 65; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
