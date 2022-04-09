@@ -5,6 +5,7 @@ programa
 	{
 		inteiro x, y, aux
 
+		escreva("Vamos trocar os valores de x e de y")
 		escreva("Digite um valor inteiro para x: \n")
 		leia(x)
 		escreva("Digite um valor inteiro para y: \n")
@@ -20,7 +21,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 203; 
+ * @POSICAO-CURSOR = 107; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
