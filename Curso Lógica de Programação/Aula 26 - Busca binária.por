@@ -1,6 +1,6 @@
 programa
 {
-	inclua biblioteca Util --> u
+	inclua biblioteca Util --> u 
 	
 	funcao inicio()
 	{
@@ -8,6 +8,9 @@ programa
 		inteiro aux
 		inteiro contA, contB
 		inteiro temp
+		inteiro Valor_inicial = 1, valor_final = u.numero_elementos(vetor), meio = 0
+		logico dado_encontrado = falso
+		inteiro busca
 
 		para (contA = 0; contA < (u.numero_elementos(vetor)); contA++)
 		{
@@ -44,6 +47,32 @@ programa
 		{
 			escreva(vetor[temp] + "\n")
 		}
+
+		escreva("Digite o valor que deseja buscar \n")
+		leia(busca)
+
+		enquanto ((Valor_inicial <= valor_final) e nao dado_encontrado)
+		{
+			meio = ((Valor_inicial + valor_final) / 2)
+			se (vetor[meio] == busca)
+			{
+				dado_encontrado = verdadeiro
+			}
+			se (vetor[meio] > busca)
+			{
+				valor_final = meio - 1
+			}senao
+			{
+				Valor_inicial = meio + 1
+			}
+			
+		}
+
+		escreva("Foi encontrado o valor ", busca + "? \n")
+		escreva(dado_encontrado)
+		
+		
+		
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -51,7 +80,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 592; 
+ * @POSICAO-CURSOR = 1301; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
