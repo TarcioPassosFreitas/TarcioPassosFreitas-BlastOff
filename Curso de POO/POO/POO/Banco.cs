@@ -8,5 +8,6 @@ namespace POO
 {
     internal class Banco
     {
+
     }
 }
