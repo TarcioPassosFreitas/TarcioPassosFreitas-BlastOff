@@ -8,7 +8,6 @@ programa
 		real saldo_atual = 8000.00
 		real valor_cheque
 		real novo_saldo
-		caracter continuar = 's'
 
 		//Destinado ao tratamento de erro geral para mensagem de erro para o usuário
 		inteiro contador
@@ -83,7 +82,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 96; 
+ * @POSICAO-CURSOR = 163; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
