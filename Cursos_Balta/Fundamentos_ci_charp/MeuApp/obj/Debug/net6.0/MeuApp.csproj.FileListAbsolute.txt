@@ -1,0 +1,15 @@
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\Fundamentos_ci_charp\MeuApp\bin\Debug\net6.0\MeuApp.exe
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\Fundamentos_ci_charp\MeuApp\bin\Debug\net6.0\MeuApp.deps.json
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\Fundamentos_ci_charp\MeuApp\bin\Debug\net6.0\MeuApp.runtimeconfig.json
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\Fundamentos_ci_charp\MeuApp\bin\Debug\net6.0\MeuApp.dll
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\Fundamentos_ci_charp\MeuApp\bin\Debug\net6.0\MeuApp.pdb
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\Fundamentos_ci_charp\MeuApp\obj\Debug\net6.0\MeuApp.csproj.AssemblyReference.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\Fundamentos_ci_charp\MeuApp\obj\Debug\net6.0\MeuApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\Fundamentos_ci_charp\MeuApp\obj\Debug\net6.0\MeuApp.AssemblyInfoInputs.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\Fundamentos_ci_charp\MeuApp\obj\Debug\net6.0\MeuApp.AssemblyInfo.cs
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\Fundamentos_ci_charp\MeuApp\obj\Debug\net6.0\MeuApp.csproj.CoreCompileInputs.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\Fundamentos_ci_charp\MeuApp\obj\Debug\net6.0\MeuApp.dll
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\Fundamentos_ci_charp\MeuApp\obj\Debug\net6.0\refint\MeuApp.dll
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\Fundamentos_ci_charp\MeuApp\obj\Debug\net6.0\MeuApp.pdb
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\Fundamentos_ci_charp\MeuApp\obj\Debug\net6.0\MeuApp.genruntimeconfig.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\Fundamentos_ci_charp\MeuApp\obj\Debug\net6.0\ref\MeuApp.dll
