@@ -17,6 +17,11 @@ namespace MeuApp
             //const var IDADE_MINIMA = 25; //errado
             //const IDADE_MINIMA; // errado
 
+            //nomes reservados tb chamados de keywords
+
+            //int internal = 25 Palavra internal é reservada
+
+
 
 
             var texto = "Testando";
