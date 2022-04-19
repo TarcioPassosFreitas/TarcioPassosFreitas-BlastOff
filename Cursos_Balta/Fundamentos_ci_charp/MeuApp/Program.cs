@@ -94,6 +94,23 @@ namespace MeuApp
             // idade = 25;
             // System.Console.WriteLine(idade);
 
+            //Alias: é um apelido que todo tipo no .NET
+            //tem
+            //por exemplo:
+            //system,string tem o alas String
+            // int idade = 25 Alias
+            // Int32 idade =25 Tipo
+
+            //Valores padrões
+            //tentar acessar um objeto que tem valor nulo
+            // int = > 0;
+            // float => 0;
+            // decimal => 0;
+            // bool => false;
+            // char => '\0';
+            // string => "";
+
+
 
 
 
