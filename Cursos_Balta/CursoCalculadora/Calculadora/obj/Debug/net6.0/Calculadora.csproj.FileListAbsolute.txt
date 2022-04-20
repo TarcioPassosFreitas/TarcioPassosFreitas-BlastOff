@@ -1,0 +1,15 @@
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\CursoCalculadora\Calculadora\bin\Debug\net6.0\Calculadora.exe
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\CursoCalculadora\Calculadora\bin\Debug\net6.0\Calculadora.deps.json
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\CursoCalculadora\Calculadora\bin\Debug\net6.0\Calculadora.runtimeconfig.json
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\CursoCalculadora\Calculadora\bin\Debug\net6.0\Calculadora.dll
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\CursoCalculadora\Calculadora\bin\Debug\net6.0\Calculadora.pdb
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\CursoCalculadora\Calculadora\obj\Debug\net6.0\Calculadora.csproj.AssemblyReference.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\CursoCalculadora\Calculadora\obj\Debug\net6.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\CursoCalculadora\Calculadora\obj\Debug\net6.0\Calculadora.AssemblyInfoInputs.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\CursoCalculadora\Calculadora\obj\Debug\net6.0\Calculadora.AssemblyInfo.cs
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\CursoCalculadora\Calculadora\obj\Debug\net6.0\Calculadora.csproj.CoreCompileInputs.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\CursoCalculadora\Calculadora\obj\Debug\net6.0\Calculadora.dll
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\CursoCalculadora\Calculadora\obj\Debug\net6.0\refint\Calculadora.dll
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\CursoCalculadora\Calculadora\obj\Debug\net6.0\Calculadora.pdb
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\CursoCalculadora\Calculadora\obj\Debug\net6.0\Calculadora.genruntimeconfig.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\CursoCalculadora\Calculadora\obj\Debug\net6.0\ref\Calculadora.dll
