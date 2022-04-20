@@ -1,0 +1,38 @@
+Class libary -> O resultado final é um ddl, não possui interface
+console aplication -> O resultado final é uma aplicação que roda no terminal, pode receber dados, esperar input do usuário
+projeto web
+	. ASP.net web
+	. ASP.net MVC
+	. ASP.net WebAPI
+projeto testes
+	. Microsoft tests
+
+//Criando um novo projeto
+
+dotnet new console => novo console Application
+dotnet new classlib => novo class library
+dotnet new web => novo projeto asp.net core
+dotnet new mvc => novo projeto asp.net core
+dotnet new webapi => novo projeto asp.net core
+dotnet new mstest => novo projeto microsoft test
+
+para especificar a pasta, podemos utilizar o: -o nome
+
+Fluxo de execução
+dotnet restore -> restaurar todos os pacotes que a aplicação precisa para ser executada
+dotnet build -> compila a aplicação
+dotnet clean -> limpa as compilações anteriores
+dotnet run -> compila e executa a aplicação
+
+Variáveis de ambiente
+Dessa forma podemos dizer ao .net qual o ambiente estamos utilizando
+	- dotnet run --environment=$Seu_Ambiente
+	- dotnet run --environment=developmente
+	- dotnet run --environment=production
+- o comando run não executa depuração(Debug)
+	-neste modo sua aplicação não vai parar nos break points
+
+
+
+
+

@@ -1,0 +1,31 @@
+.Net Framework -> linguagem c#. Pode ser instalado side-by-side(usar várias versões no memso ambiente).
+compatível somente com o windows. Considerado legado.(software antigo)
+
+.Net core -> versão mais atual do .Net. 2015. Suporta outros SO com linux e mac.
+core -> núcleo(só o essencial). o .Net framework foi resscrito, a reescrita foi o .Net core. 
+Ainda assim com ótima retro compatibilidade
+
+.Net Standard -> .Net framework e .Net core coexistem(podem ser intalados juntos, podem ser utilizados no mesmo projeto)
+para garantir que algo que escrevemos roda nos dois, surgiu o .Net standart. Garante que tudo que escrevemos, vai rodar tanto no .Net
+Framework quanto no .Net core. Não é um Framework, apenas um contrato, chamamos de surface API. 
+
+.Net 5 -> novembro de 2020. Unificação dos Frameworks. .Net core chegou ao .Net framework em nível de conteúdo.
+Não faz mais sentido ter 2 frameworks
+
+Releases -> algo novo que vai sair. .Net framework não possuia data de lançamento.
+.Net core, lançamentos (releases) semestrais e .Net 5 e futuros, lançamentos anuais
+lts -< suporte de longa duração -> opte sempre para lts para projetos em produção.
+
+Versionamento -> alpha, beta, realease, candidate, final
+major: troca de versão de 2 pra 3, pode ser até um produto novo, minor: mudanças menores, patch: correção de erros e bugs
+
+Runtime -> necessário para executar aplicações
+SDK -> kit para desenvolvimento de software. Já vem com o Runtime integrado.
+Runtime executa o SDK cria.
+
+dotnet CLI -> definições:
+dotnet --version -> verifica a versão atual
+dotnet --list-sdks -> lista os sdks instalados
+dotnet --list-runtimes -> lista os runtimes instalados
+dotnet help -> exibe a ajuda. Lista os comandos disponíveis
+ 
