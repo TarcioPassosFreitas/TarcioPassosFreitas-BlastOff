@@ -1,0 +1,15 @@
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\CursoDatas\CursoDatas\bin\Debug\net6.0\CursoDatas.exe
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\CursoDatas\CursoDatas\bin\Debug\net6.0\CursoDatas.deps.json
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\CursoDatas\CursoDatas\bin\Debug\net6.0\CursoDatas.runtimeconfig.json
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\CursoDatas\CursoDatas\bin\Debug\net6.0\CursoDatas.dll
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\CursoDatas\CursoDatas\bin\Debug\net6.0\CursoDatas.pdb
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\CursoDatas\CursoDatas\obj\Debug\net6.0\CursoDatas.csproj.AssemblyReference.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\CursoDatas\CursoDatas\obj\Debug\net6.0\CursoDatas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\CursoDatas\CursoDatas\obj\Debug\net6.0\CursoDatas.AssemblyInfoInputs.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\CursoDatas\CursoDatas\obj\Debug\net6.0\CursoDatas.AssemblyInfo.cs
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\CursoDatas\CursoDatas\obj\Debug\net6.0\CursoDatas.csproj.CoreCompileInputs.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\CursoDatas\CursoDatas\obj\Debug\net6.0\CursoDatas.dll
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\CursoDatas\CursoDatas\obj\Debug\net6.0\refint\CursoDatas.dll
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\CursoDatas\CursoDatas\obj\Debug\net6.0\CursoDatas.pdb
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\CursoDatas\CursoDatas\obj\Debug\net6.0\CursoDatas.genruntimeconfig.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\CursoDatas\CursoDatas\obj\Debug\net6.0\ref\CursoDatas.dll
