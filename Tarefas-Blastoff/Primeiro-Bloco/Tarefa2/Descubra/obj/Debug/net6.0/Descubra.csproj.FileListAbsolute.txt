@@ -1,0 +1,15 @@
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa2\Descubra\bin\Debug\net6.0\Descubra.exe
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa2\Descubra\bin\Debug\net6.0\Descubra.deps.json
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa2\Descubra\bin\Debug\net6.0\Descubra.runtimeconfig.json
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa2\Descubra\bin\Debug\net6.0\Descubra.dll
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa2\Descubra\bin\Debug\net6.0\Descubra.pdb
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa2\Descubra\obj\Debug\net6.0\Descubra.csproj.AssemblyReference.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa2\Descubra\obj\Debug\net6.0\Descubra.GeneratedMSBuildEditorConfig.editorconfig
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa2\Descubra\obj\Debug\net6.0\Descubra.AssemblyInfoInputs.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa2\Descubra\obj\Debug\net6.0\Descubra.AssemblyInfo.cs
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa2\Descubra\obj\Debug\net6.0\Descubra.csproj.CoreCompileInputs.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa2\Descubra\obj\Debug\net6.0\Descubra.dll
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa2\Descubra\obj\Debug\net6.0\refint\Descubra.dll
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa2\Descubra\obj\Debug\net6.0\Descubra.pdb
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa2\Descubra\obj\Debug\net6.0\Descubra.genruntimeconfig.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa2\Descubra\obj\Debug\net6.0\ref\Descubra.dll
