@@ -1,0 +1,15 @@
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\CursoCronometro\CursoCronometro\bin\Debug\net6.0\CursoCronometro.exe
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\CursoCronometro\CursoCronometro\bin\Debug\net6.0\CursoCronometro.deps.json
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\CursoCronometro\CursoCronometro\bin\Debug\net6.0\CursoCronometro.runtimeconfig.json
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\CursoCronometro\CursoCronometro\bin\Debug\net6.0\CursoCronometro.dll
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\CursoCronometro\CursoCronometro\bin\Debug\net6.0\CursoCronometro.pdb
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\CursoCronometro\CursoCronometro\obj\Debug\net6.0\CursoCronometro.csproj.AssemblyReference.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\CursoCronometro\CursoCronometro\obj\Debug\net6.0\CursoCronometro.GeneratedMSBuildEditorConfig.editorconfig
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\CursoCronometro\CursoCronometro\obj\Debug\net6.0\CursoCronometro.AssemblyInfoInputs.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\CursoCronometro\CursoCronometro\obj\Debug\net6.0\CursoCronometro.AssemblyInfo.cs
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\CursoCronometro\CursoCronometro\obj\Debug\net6.0\CursoCronometro.csproj.CoreCompileInputs.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\CursoCronometro\CursoCronometro\obj\Debug\net6.0\CursoCronometro.dll
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\CursoCronometro\CursoCronometro\obj\Debug\net6.0\refint\CursoCronometro.dll
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\CursoCronometro\CursoCronometro\obj\Debug\net6.0\CursoCronometro.pdb
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\CursoCronometro\CursoCronometro\obj\Debug\net6.0\CursoCronometro.genruntimeconfig.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\CursoCronometro\CursoCronometro\obj\Debug\net6.0\ref\CursoCronometro.dll
