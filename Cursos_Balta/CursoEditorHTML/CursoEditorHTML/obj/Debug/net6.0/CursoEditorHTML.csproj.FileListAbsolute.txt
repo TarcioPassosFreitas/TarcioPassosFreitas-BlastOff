@@ -1,0 +1,15 @@
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\CursoEditorHTML\CursoEditorHTML\obj\Debug\net6.0\CursoEditorHTML.csproj.AssemblyReference.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\CursoEditorHTML\CursoEditorHTML\obj\Debug\net6.0\CursoEditorHTML.GeneratedMSBuildEditorConfig.editorconfig
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\CursoEditorHTML\CursoEditorHTML\obj\Debug\net6.0\CursoEditorHTML.AssemblyInfoInputs.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\CursoEditorHTML\CursoEditorHTML\obj\Debug\net6.0\CursoEditorHTML.AssemblyInfo.cs
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\CursoEditorHTML\CursoEditorHTML\obj\Debug\net6.0\CursoEditorHTML.csproj.CoreCompileInputs.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\CursoEditorHTML\CursoEditorHTML\bin\Debug\net6.0\CursoEditorHTML.exe
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\CursoEditorHTML\CursoEditorHTML\bin\Debug\net6.0\CursoEditorHTML.deps.json
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\CursoEditorHTML\CursoEditorHTML\bin\Debug\net6.0\CursoEditorHTML.runtimeconfig.json
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\CursoEditorHTML\CursoEditorHTML\bin\Debug\net6.0\CursoEditorHTML.dll
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\CursoEditorHTML\CursoEditorHTML\bin\Debug\net6.0\CursoEditorHTML.pdb
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\CursoEditorHTML\CursoEditorHTML\obj\Debug\net6.0\CursoEditorHTML.dll
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\CursoEditorHTML\CursoEditorHTML\obj\Debug\net6.0\refint\CursoEditorHTML.dll
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\CursoEditorHTML\CursoEditorHTML\obj\Debug\net6.0\CursoEditorHTML.pdb
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\CursoEditorHTML\CursoEditorHTML\obj\Debug\net6.0\CursoEditorHTML.genruntimeconfig.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\CursoEditorHTML\CursoEditorHTML\obj\Debug\net6.0\ref\CursoEditorHTML.dll
