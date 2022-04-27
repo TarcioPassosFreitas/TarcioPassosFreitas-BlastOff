@@ -1,0 +1,15 @@
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa4\RendimentoPesca\bin\Debug\net6.0\RendimentoPesca.exe
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa4\RendimentoPesca\bin\Debug\net6.0\RendimentoPesca.deps.json
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa4\RendimentoPesca\bin\Debug\net6.0\RendimentoPesca.runtimeconfig.json
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa4\RendimentoPesca\bin\Debug\net6.0\RendimentoPesca.dll
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa4\RendimentoPesca\bin\Debug\net6.0\RendimentoPesca.pdb
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa4\RendimentoPesca\obj\Debug\net6.0\RendimentoPesca.csproj.AssemblyReference.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa4\RendimentoPesca\obj\Debug\net6.0\RendimentoPesca.GeneratedMSBuildEditorConfig.editorconfig
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa4\RendimentoPesca\obj\Debug\net6.0\RendimentoPesca.AssemblyInfoInputs.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa4\RendimentoPesca\obj\Debug\net6.0\RendimentoPesca.AssemblyInfo.cs
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa4\RendimentoPesca\obj\Debug\net6.0\RendimentoPesca.csproj.CoreCompileInputs.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa4\RendimentoPesca\obj\Debug\net6.0\RendimentoPesca.dll
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa4\RendimentoPesca\obj\Debug\net6.0\refint\RendimentoPesca.dll
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa4\RendimentoPesca\obj\Debug\net6.0\RendimentoPesca.pdb
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa4\RendimentoPesca\obj\Debug\net6.0\RendimentoPesca.genruntimeconfig.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa4\RendimentoPesca\obj\Debug\net6.0\ref\RendimentoPesca.dll
