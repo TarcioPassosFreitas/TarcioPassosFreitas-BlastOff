@@ -1,0 +1,15 @@
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa5\FolhaPagamento\bin\Debug\net6.0\FolhaPagamento.exe
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa5\FolhaPagamento\bin\Debug\net6.0\FolhaPagamento.deps.json
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa5\FolhaPagamento\bin\Debug\net6.0\FolhaPagamento.runtimeconfig.json
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa5\FolhaPagamento\bin\Debug\net6.0\FolhaPagamento.dll
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa5\FolhaPagamento\bin\Debug\net6.0\FolhaPagamento.pdb
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa5\FolhaPagamento\obj\Debug\net6.0\FolhaPagamento.csproj.AssemblyReference.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa5\FolhaPagamento\obj\Debug\net6.0\FolhaPagamento.GeneratedMSBuildEditorConfig.editorconfig
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa5\FolhaPagamento\obj\Debug\net6.0\FolhaPagamento.AssemblyInfoInputs.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa5\FolhaPagamento\obj\Debug\net6.0\FolhaPagamento.AssemblyInfo.cs
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa5\FolhaPagamento\obj\Debug\net6.0\FolhaPagamento.csproj.CoreCompileInputs.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa5\FolhaPagamento\obj\Debug\net6.0\FolhaPagamento.dll
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa5\FolhaPagamento\obj\Debug\net6.0\refint\FolhaPagamento.dll
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa5\FolhaPagamento\obj\Debug\net6.0\FolhaPagamento.pdb
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa5\FolhaPagamento\obj\Debug\net6.0\FolhaPagamento.genruntimeconfig.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa5\FolhaPagamento\obj\Debug\net6.0\ref\FolhaPagamento.dll
