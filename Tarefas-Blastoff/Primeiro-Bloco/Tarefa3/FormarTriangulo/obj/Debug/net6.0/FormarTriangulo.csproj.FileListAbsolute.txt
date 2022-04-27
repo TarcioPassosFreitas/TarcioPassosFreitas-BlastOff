@@ -1,0 +1,15 @@
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa3\FormarTriangulo\bin\Debug\net6.0\FormarTriangulo.exe
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa3\FormarTriangulo\bin\Debug\net6.0\FormarTriangulo.deps.json
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa3\FormarTriangulo\bin\Debug\net6.0\FormarTriangulo.runtimeconfig.json
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa3\FormarTriangulo\bin\Debug\net6.0\FormarTriangulo.dll
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa3\FormarTriangulo\bin\Debug\net6.0\FormarTriangulo.pdb
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa3\FormarTriangulo\obj\Debug\net6.0\FormarTriangulo.csproj.AssemblyReference.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa3\FormarTriangulo\obj\Debug\net6.0\FormarTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa3\FormarTriangulo\obj\Debug\net6.0\FormarTriangulo.AssemblyInfoInputs.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa3\FormarTriangulo\obj\Debug\net6.0\FormarTriangulo.AssemblyInfo.cs
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa3\FormarTriangulo\obj\Debug\net6.0\FormarTriangulo.csproj.CoreCompileInputs.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa3\FormarTriangulo\obj\Debug\net6.0\FormarTriangulo.dll
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa3\FormarTriangulo\obj\Debug\net6.0\refint\FormarTriangulo.dll
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa3\FormarTriangulo\obj\Debug\net6.0\FormarTriangulo.pdb
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa3\FormarTriangulo\obj\Debug\net6.0\FormarTriangulo.genruntimeconfig.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa3\FormarTriangulo\obj\Debug\net6.0\ref\FormarTriangulo.dll
