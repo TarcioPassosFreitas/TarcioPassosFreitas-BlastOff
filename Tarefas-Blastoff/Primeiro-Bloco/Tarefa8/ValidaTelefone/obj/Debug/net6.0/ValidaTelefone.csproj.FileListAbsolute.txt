@@ -1,0 +1,15 @@
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa8\ValidaTelefone\bin\Debug\net6.0\ValidaTelefone.exe
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa8\ValidaTelefone\bin\Debug\net6.0\ValidaTelefone.deps.json
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa8\ValidaTelefone\bin\Debug\net6.0\ValidaTelefone.runtimeconfig.json
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa8\ValidaTelefone\bin\Debug\net6.0\ValidaTelefone.dll
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa8\ValidaTelefone\bin\Debug\net6.0\ValidaTelefone.pdb
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa8\ValidaTelefone\obj\Debug\net6.0\ValidaTelefone.csproj.AssemblyReference.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa8\ValidaTelefone\obj\Debug\net6.0\ValidaTelefone.GeneratedMSBuildEditorConfig.editorconfig
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa8\ValidaTelefone\obj\Debug\net6.0\ValidaTelefone.AssemblyInfoInputs.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa8\ValidaTelefone\obj\Debug\net6.0\ValidaTelefone.AssemblyInfo.cs
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa8\ValidaTelefone\obj\Debug\net6.0\ValidaTelefone.csproj.CoreCompileInputs.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa8\ValidaTelefone\obj\Debug\net6.0\ValidaTelefone.dll
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa8\ValidaTelefone\obj\Debug\net6.0\refint\ValidaTelefone.dll
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa8\ValidaTelefone\obj\Debug\net6.0\ValidaTelefone.pdb
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa8\ValidaTelefone\obj\Debug\net6.0\ValidaTelefone.genruntimeconfig.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa8\ValidaTelefone\obj\Debug\net6.0\ref\ValidaTelefone.dll
