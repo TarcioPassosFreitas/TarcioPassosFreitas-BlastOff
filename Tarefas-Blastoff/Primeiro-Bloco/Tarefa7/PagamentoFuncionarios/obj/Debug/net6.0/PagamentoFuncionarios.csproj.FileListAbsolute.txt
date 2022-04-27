@@ -1,0 +1,15 @@
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa7\PagamentoFuncionarios\bin\Debug\net6.0\PagamentoFuncionarios.exe
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa7\PagamentoFuncionarios\bin\Debug\net6.0\PagamentoFuncionarios.deps.json
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa7\PagamentoFuncionarios\bin\Debug\net6.0\PagamentoFuncionarios.runtimeconfig.json
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa7\PagamentoFuncionarios\bin\Debug\net6.0\PagamentoFuncionarios.dll
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa7\PagamentoFuncionarios\bin\Debug\net6.0\PagamentoFuncionarios.pdb
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa7\PagamentoFuncionarios\obj\Debug\net6.0\PagamentoFuncionarios.csproj.AssemblyReference.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa7\PagamentoFuncionarios\obj\Debug\net6.0\PagamentoFuncionarios.GeneratedMSBuildEditorConfig.editorconfig
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa7\PagamentoFuncionarios\obj\Debug\net6.0\PagamentoFuncionarios.AssemblyInfoInputs.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa7\PagamentoFuncionarios\obj\Debug\net6.0\PagamentoFuncionarios.AssemblyInfo.cs
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa7\PagamentoFuncionarios\obj\Debug\net6.0\PagamentoFuncionarios.csproj.CoreCompileInputs.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa7\PagamentoFuncionarios\obj\Debug\net6.0\PagamentoFuncionarios.dll
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa7\PagamentoFuncionarios\obj\Debug\net6.0\refint\PagamentoFuncionarios.dll
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa7\PagamentoFuncionarios\obj\Debug\net6.0\PagamentoFuncionarios.pdb
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa7\PagamentoFuncionarios\obj\Debug\net6.0\PagamentoFuncionarios.genruntimeconfig.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa7\PagamentoFuncionarios\obj\Debug\net6.0\ref\PagamentoFuncionarios.dll
