@@ -1,0 +1,15 @@
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa6\CompetirSalto\bin\Debug\net6.0\CompetirSalto.exe
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa6\CompetirSalto\bin\Debug\net6.0\CompetirSalto.deps.json
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa6\CompetirSalto\bin\Debug\net6.0\CompetirSalto.runtimeconfig.json
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa6\CompetirSalto\bin\Debug\net6.0\CompetirSalto.dll
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa6\CompetirSalto\bin\Debug\net6.0\CompetirSalto.pdb
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa6\CompetirSalto\obj\Debug\net6.0\CompetirSalto.csproj.AssemblyReference.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa6\CompetirSalto\obj\Debug\net6.0\CompetirSalto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa6\CompetirSalto\obj\Debug\net6.0\CompetirSalto.AssemblyInfoInputs.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa6\CompetirSalto\obj\Debug\net6.0\CompetirSalto.AssemblyInfo.cs
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa6\CompetirSalto\obj\Debug\net6.0\CompetirSalto.csproj.CoreCompileInputs.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa6\CompetirSalto\obj\Debug\net6.0\CompetirSalto.dll
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa6\CompetirSalto\obj\Debug\net6.0\refint\CompetirSalto.dll
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa6\CompetirSalto\obj\Debug\net6.0\CompetirSalto.pdb
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa6\CompetirSalto\obj\Debug\net6.0\CompetirSalto.genruntimeconfig.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa6\CompetirSalto\obj\Debug\net6.0\ref\CompetirSalto.dll
