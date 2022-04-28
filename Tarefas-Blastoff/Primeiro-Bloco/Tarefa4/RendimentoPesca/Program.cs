@@ -54,7 +54,7 @@ namespace RendimentoPesca
 
             if (unity == "t")
             {
-                quantity = quantity * 1000;
+                quantity = quantity * 1000; //por que não bateu os resultados?
             }
 
             double excesso = quantity - 50.0;

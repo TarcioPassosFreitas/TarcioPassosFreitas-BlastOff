@@ -7,7 +7,7 @@ namespace ValidaTelefone
     {
         static void Main(string[] args)
         {
-
+            //A regra de negócio é o 3 na frente. Verifica!
             string regra1 = @"^([0-9]{4}-[0-9]{4}?)$";
             string regra2 = @"^([0-9]{4}-[0-9]{3}?)$";
             string regra3 = @"^([0-9]{8})$";

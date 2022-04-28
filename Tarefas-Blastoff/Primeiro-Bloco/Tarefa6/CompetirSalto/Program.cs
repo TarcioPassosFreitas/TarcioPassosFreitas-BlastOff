@@ -8,7 +8,7 @@ namespace CompetirSalto
     {
         static void Main(string[] args)
         {
-            validarNome();
+            Menu(); //Lembrar de commitar
         }
 
         static void Inserir_vetor(string nome)
@@ -85,7 +85,7 @@ namespace CompetirSalto
             string regra = @"^[A-ZÇÉÈÊÚÙÛÍÌÎÓÒÔÕÁÀÂÃ][a-zçéèêúùûíìîóòôõáàâã]+( [A-ZÇÉÈÊÚÙÛÍÌÎÓÒÔÕÁÀÂÃ][a-zçéèêúùûíìîóòôõáàâã]+)+";
             Regex regex = new Regex(regra);
             nome = Console.ReadLine();
-            if (regex.IsMatch(nome))
+            if (!regex.IsMatch(nome)) //coloquei uma !
             {
                 validarNome();
             }

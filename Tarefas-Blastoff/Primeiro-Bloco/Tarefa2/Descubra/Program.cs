@@ -13,7 +13,7 @@ namespace Descubra
 
         static void WinLose(int number_digit, int randomValueInt) //Função para verificar se o usuário vendeu ou perdeu
         {
-            Thread.Sleep(2500);
+            //Thread.Sleep(2500);
             Console.Clear();
             if (number_digit == randomValueInt)
             {

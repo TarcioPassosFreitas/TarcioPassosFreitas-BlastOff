@@ -16,7 +16,7 @@ namespace VerificaCPF
         {
             string cpf;
             cpf = Console.ReadLine();
-            string regra = @"^([0-9]{3}.[0-9]{3}.[0-9]{3}-[0-9]{2})|^([0-9]{11})$";
+            string regra = @"^([0-9]{3}.[0-9]{3}.[0-9]{3}-[0-9]{2})$"; //|^[0-9]{11}
             Regex regex = new Regex(regra);
 
             if (!regex.IsMatch(cpf))
@@ -91,7 +91,7 @@ namespace VerificaCPF
                 soma_aux += valor_aux;
 
             }
-            System.Console.WriteLine(soma_aux);
+            //System.Console.WriteLine(soma_aux);
 
             divisor_aux = (soma_aux % 11);
             //System.Console.WriteLine(divisor_aux);
