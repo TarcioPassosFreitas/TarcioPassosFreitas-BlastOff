@@ -7,12 +7,14 @@ namespace Descubra
     {
         static void Main(string[] args)
         {
-
+            //O sistema é um jogo onde o usuário tenta acertar o valor sorteado pelo computador no range de 0 a 5
             Menu();
         }
 
-        static void WinLose(int number_digit, int randomValueInt)
+        static void WinLose(int number_digit, int randomValueInt) //Função para verificar se o usuário vendeu ou perdeu
         {
+            Thread.Sleep(2500);
+            Console.Clear();
             if (number_digit == randomValueInt)
             {
                 System.Console.WriteLine("The User Win");
@@ -31,13 +33,13 @@ namespace Descubra
             int randomValueInt = randomValue.Next(5);
 
             Console.Clear();
-            System.Console.WriteLine("Test find the number drawn by the computer");
-            System.Console.WriteLine("Enter a number between 0 and 5:");
+            System.Console.WriteLine("Test find the number drawn by the computer"); //Teste encontre o número sorteado pelo computador
+            System.Console.WriteLine("Enter a number between 0 and 5:"); //Digite um número entre 0 e 5
             itsPossible = int.TryParse(Console.ReadLine(), out number_digit);
             if (!itsPossible || number_digit < 0 || number_digit > 5)
             {
                 Console.Clear();
-                System.Console.WriteLine("Enter the value in the indicated range");
+                System.Console.WriteLine("Enter the value in the indicated range"); //Insira o valor no intervalo indicado
                 Thread.Sleep(2500);
                 Validation();
             }
@@ -46,7 +48,7 @@ namespace Descubra
                 WinLose(number_digit, randomValueInt);
             }
             Thread.Sleep(2500);
-            System.Console.WriteLine("Hit enter to go back to the menu");
+            System.Console.WriteLine("Hit enter to go back to the menu"); //Aperte enter para voltar ao menu
             Console.ReadLine();
             Menu();
         }
@@ -57,15 +59,15 @@ namespace Descubra
             bool optionPossible;
 
             Console.Clear();
-            System.Console.WriteLine("Welcome to Discover Game!");
-            System.Console.WriteLine("1 - Start Discovery");
+            System.Console.WriteLine("Welcome to Discover Game!"); //Bem-vindo ao Discover Game!
+            System.Console.WriteLine("1 - Start");
             System.Console.WriteLine("0 - Exit");
 
             optionPossible = short.TryParse(Console.ReadLine(), out option);
             if (!optionPossible)
             {
                 Console.Clear();
-                System.Console.WriteLine("Enter thevalue in the indicated range");
+                System.Console.WriteLine("Enter the value in the indicated range"); //Insira o valor no intervalo indicado
                 Thread.Sleep(2500);
                 Menu();
             }
@@ -83,7 +85,7 @@ namespace Descubra
                     default:
                         {
                             Console.Clear();
-                            System.Console.WriteLine("Enter thevalue in the indicated range");
+                            System.Console.WriteLine("Enter the value in the indicated range"); //Insira o valor no intervalo indicado
                             Thread.Sleep(2500);
                             Menu();
                             break;

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace PagamentoFuncionarios // Note: actual namespace depends on the project name.
+namespace PagamentoFuncionarios
 {
     internal class Program
     {
@@ -9,13 +9,13 @@ namespace PagamentoFuncionarios // Note: actual namespace depends on the project
             System.Console.WriteLine("Bem-vindo ao sistema de salário com comissões");
 
 
-
-            double[] array_salarios = new double[9] { 200, 300, 400, 500, 600, 700, 800, 900, 1000 };
+            double[] array_salarios = new double[9];
+            //double[] array_salarios = new double[9] { 200, 300, 400, 500, 600, 700, 800, 900, 1000 };
             double[] array_indices = new double[9] { 0, 0, 0, 0, 0, 0, 0, 0, 0 };
             double indice;
             double indice_maximo;
 
-            //EntradaDados(array_salarios);
+            EntradaDados(array_salarios);
             System.Console.WriteLine("===================================================");
             foreach (double salario in array_salarios)
             {

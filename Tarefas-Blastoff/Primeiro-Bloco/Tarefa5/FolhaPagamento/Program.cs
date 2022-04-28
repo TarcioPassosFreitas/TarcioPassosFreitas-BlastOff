@@ -133,8 +133,8 @@ namespace FolhaPagamento
             bool optionPossible;
 
             Console.Clear();
-            System.Console.WriteLine("welcome to the system of forming triangles");
-            System.Console.WriteLine("1 - Start System");
+            System.Console.WriteLine("welcome to the payroll system");
+            System.Console.WriteLine("1 - Start");
             System.Console.WriteLine("0 - Exit");
 
             optionPossible = short.TryParse(Console.ReadLine(), out option);

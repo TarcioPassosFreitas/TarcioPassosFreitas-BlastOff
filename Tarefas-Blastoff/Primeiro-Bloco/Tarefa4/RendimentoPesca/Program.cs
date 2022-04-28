@@ -7,38 +7,39 @@ namespace RendimentoPesca
     {
         static void Main(string[] args)
         {
-            System.Console.WriteLine("Welcome to the fish quantity monitoring system");
+
             Menu();
 
 
         }
 
-        static void regraNegocio(String unidade)
+        static void Business_rule(string unity) //Regra de negócio
         {
-
-            switch (unidade)
+            System.Console.WriteLine("Welcome to the fish quantity monitoring system"); //Bem-vindo ao sistema de monitoramento de quantidade de peixes
+            switch (unity)
             {
                 case "t":
                     {
-                        MenuTerciario(unidade); break;
+                        DataInput(unity); break;
                     }
                 case "kg":
                     {
-                        MenuTerciario(unidade); break;
+                        DataInput(unity); break;
                     }
                 case "g":
                     {
-                        System.Console.WriteLine("Quantidade em grama não gera multa");
+                        System.Console.WriteLine("Amount in gram does not generate a fine"); //Quantidade em grama não gera multa
                         Thread.Sleep(2500);
-                        MenuSecundario();
+                        System.Console.WriteLine("click enter to return to Menu");
+                        Console.ReadLine();
+                        Menu();
                         break;
                     }
                 default:
                     {
-                        System.Console.WriteLine("Enter thevalue in the indicated range");
-                        System.Console.WriteLine("Digite o valor da unidade novamente");
+                        System.Console.WriteLine("Enter the value in the indicated range"); //Insira o valor no intervalo indicado
                         Thread.Sleep(2500);
-                        MenuSecundario();
+                        Measurement_units();
                         break;
                     }
             }
@@ -47,56 +48,64 @@ namespace RendimentoPesca
 
         }
 
-        static void regraNegocio2(double quantidade, string unidade)
+        static void Excess_calculation(double quantity, string unity) //Cálculo do excesso
         {
 
 
-            if (unidade == "t")
+            if (unity == "t")
             {
-                quantidade = quantidade * 1000;
+                quantity = quantity * 1000;
             }
 
-            double excesso = quantidade - 50.0;
+            double excesso = quantity - 50.0;
             double multa;
 
-            if (quantidade > 50)
+            if (quantity > 50)
             {
                 multa = Math.Abs(excesso) * 4;
-                System.Console.WriteLine($"Tem excesso. O excesso é de {Math.Abs(excesso)} {unidade}. E a multa é de R$: {multa:N2}");
+                System.Console.WriteLine($"There's excess. The excess is {Math.Abs(excesso)} {unity}. And the fine is R$: {multa:N2}");
+                Thread.Sleep(2500);
+                System.Console.WriteLine("click enter to return to Menu");
+                Console.ReadLine();
+                Menu();
             }
             else
             {
-                System.Console.WriteLine("A quantidade de quilos está dentro dos padrões aceitáveis");
+                System.Console.WriteLine("The amount of kilos is within acceptable standards"); //A quantidade de quilos está dentro dos padrões aceitáveis
+                Thread.Sleep(2500);
+                System.Console.WriteLine("click enter to return to Menu");
+                Console.ReadLine();
+                Menu();
             }
         }
 
-        static void MenuTerciario(string unidade)
+        static void DataInput(string unity) //Entrada de dados
         {
             Console.Clear();
-            bool quantidadePossible;
-            double quantidade;
+            bool is_possible_quantity; //é possível quantidade
+            double quantity; //quantidade
             System.Console.WriteLine("Entre com o valor da quantidade");
-            quantidadePossible = double.TryParse(Console.ReadLine(), out quantidade);
-            if (!quantidadePossible || quantidade <= 0)
+            is_possible_quantity = double.TryParse(Console.ReadLine(), out quantity);
+            if (!is_possible_quantity || quantity <= 0)
             {
-                MenuTerciario(unidade);
+                DataInput(unity);
             }
             else
             {
-                regraNegocio2(quantidade, unidade);
+                Excess_calculation(quantity, unity);
             }
 
         }
 
-        static void MenuSecundario()
+        static void Measurement_units() // Opções de unidade de medida
         {
             Console.Clear();
-            System.Console.WriteLine("t - Para toneladas");
-            System.Console.WriteLine("kg - Para Quilograma");
-            System.Console.WriteLine("g - Para grama");
+            System.Console.WriteLine("t - to tons");
+            System.Console.WriteLine("kg - to Kilogram");
+            System.Console.WriteLine("g - for grass");
 
-            string unidade = Console.ReadLine().ToLower();
-            regraNegocio(unidade);
+            string unity = Console.ReadLine().ToLower(); //unidade
+            Business_rule(unity);
         }
 
         static void Menu()
@@ -105,8 +114,8 @@ namespace RendimentoPesca
             bool optionPossible;
 
             Console.Clear();
-            System.Console.WriteLine("welcome to the system of forming triangles");
-            System.Console.WriteLine("1 - Start System");
+            System.Console.WriteLine("Welcome to the Fishing Income System"); //Bem-vindo ao sistema de rendimento de pesca
+            System.Console.WriteLine("1 - Start");
             System.Console.WriteLine("0 - Exit");
 
             optionPossible = short.TryParse(Console.ReadLine(), out option);
@@ -121,7 +130,7 @@ namespace RendimentoPesca
             {
                 switch (option)
                 {
-                    case 1: MenuSecundario(); break;
+                    case 1: Measurement_units(); break;
                     case 0:
                         {
                             Console.Clear();
