@@ -9,8 +9,25 @@ namespace PagamentoFuncionarios
             System.Console.WriteLine("Bem-vindo ao sistema de salário com comissões");
 
 
-            //double[] array_salarios = new double[9];
-            double[] array_salarios = new double[9] { 200, 300, 400, 500, 600, 700, 800, 900, 1000 };
+            double[] array_salarios = new double[9];
+            //double[] array_salarios = new double[9] { 200, 300, 400, 500, 600, 700, 800, 900, 1000 };
+
+            bool validar;
+            double variavelTeste;
+            for (int i = 0; i < 9; i++)
+            {
+                System.Console.WriteLine($"Digite o valor do salário {i + 1}");
+                validar = double.TryParse(Console.ReadLine(), out variavelTeste);
+                if (!validar || variavelTeste < 200)
+                {
+                    variavelTeste = 200;
+                    array_salarios[i] = variavelTeste;
+                }
+                else
+                {
+                    array_salarios[i] = variavelTeste;
+                }
+            }
             double[] array_indices = new double[9] { 0, 0, 0, 0, 0, 0, 0, 0, 0 };
             double indice_array;
             double indice_maximo_array;
