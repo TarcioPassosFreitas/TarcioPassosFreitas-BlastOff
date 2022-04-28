@@ -1,0 +1,15 @@
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa9\VerificaCPF\bin\Debug\net6.0\VerificaCPF.exe
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa9\VerificaCPF\bin\Debug\net6.0\VerificaCPF.deps.json
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa9\VerificaCPF\bin\Debug\net6.0\VerificaCPF.runtimeconfig.json
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa9\VerificaCPF\bin\Debug\net6.0\VerificaCPF.dll
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa9\VerificaCPF\bin\Debug\net6.0\VerificaCPF.pdb
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa9\VerificaCPF\obj\Debug\net6.0\VerificaCPF.csproj.AssemblyReference.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa9\VerificaCPF\obj\Debug\net6.0\VerificaCPF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa9\VerificaCPF\obj\Debug\net6.0\VerificaCPF.AssemblyInfoInputs.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa9\VerificaCPF\obj\Debug\net6.0\VerificaCPF.AssemblyInfo.cs
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa9\VerificaCPF\obj\Debug\net6.0\VerificaCPF.csproj.CoreCompileInputs.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa9\VerificaCPF\obj\Debug\net6.0\VerificaCPF.dll
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa9\VerificaCPF\obj\Debug\net6.0\refint\VerificaCPF.dll
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa9\VerificaCPF\obj\Debug\net6.0\VerificaCPF.pdb
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa9\VerificaCPF\obj\Debug\net6.0\VerificaCPF.genruntimeconfig.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Primeiro-Bloco\Tarefa9\VerificaCPF\obj\Debug\net6.0\ref\VerificaCPF.dll
