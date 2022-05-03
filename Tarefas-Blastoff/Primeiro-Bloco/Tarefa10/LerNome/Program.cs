@@ -15,6 +15,7 @@ namespace LerNome
 
         static void validarNome()
         {
+
             string regra = @"^[A-ZÇÉÈÊÚÙÛÍÌÎÓÒÔÕÁÀÂÃ][a-zçéèêúùûíìîóòôõáàâã]+( [A-ZÇÉÈÊÚÙÛÍÌÎÓÒÔÕÁÀÂÃ][a-zçéèêúùûíìîóòôõáàâã]+)+";
             Regex regex = new Regex(regra);
             string name;

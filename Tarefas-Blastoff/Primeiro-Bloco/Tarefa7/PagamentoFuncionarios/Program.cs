@@ -6,6 +6,7 @@ namespace PagamentoFuncionarios
     {
         static void Main(string[] args)
         {
+            Console.Clear();
             System.Console.WriteLine("Bem-vindo ao sistema de salário com comissões");
 
 
@@ -32,7 +33,6 @@ namespace PagamentoFuncionarios
             double indice_array;
             double indice_maximo_array;
 
-            //EntradaDados(array_salarios); //Problema na entrada de dados, mas questão não necessariamente pede entrada de dados
             System.Console.WriteLine("==================================================="); //Regra de negócio
             foreach (double salario in array_salarios)
             {
@@ -45,17 +45,27 @@ namespace PagamentoFuncionarios
             }
             System.Console.WriteLine("==============================================="); //Confirmar que os valores estão certos
 
-            foreach (double testando in array_indices)
+            // foreach (double testando in array_indices)
+            // {
+
+            //     System.Console.WriteLine(testando);
+            // }
+            Console.Clear();
+            Tela(array_indices);
+
+
+
+
+
+
+        }
+
+        static void Tela(double[] array_indices)
+        {
+            for (int i = 0; i < array_indices.Length; i++)
             {
-
-                System.Console.WriteLine(testando);
+                System.Console.WriteLine($"tem {array_indices[i]} Salário de funcionários na {i + 1}° Faixa");
             }
-
-
-
-
-
-
         }
 
         static void Limitador(double indice, double indice_maximo) //Limita caso o valor passe do valor pedido
