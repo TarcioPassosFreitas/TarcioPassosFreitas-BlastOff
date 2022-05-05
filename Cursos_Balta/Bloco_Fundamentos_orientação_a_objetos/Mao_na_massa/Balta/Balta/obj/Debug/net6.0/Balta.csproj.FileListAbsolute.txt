@@ -1,0 +1,15 @@
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\Bloco_Fundamentos_orientação_a_objetos\Mao_na_massa\Balta\Balta\bin\Debug\net6.0\Balta.exe
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\Bloco_Fundamentos_orientação_a_objetos\Mao_na_massa\Balta\Balta\bin\Debug\net6.0\Balta.deps.json
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\Bloco_Fundamentos_orientação_a_objetos\Mao_na_massa\Balta\Balta\bin\Debug\net6.0\Balta.runtimeconfig.json
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\Bloco_Fundamentos_orientação_a_objetos\Mao_na_massa\Balta\Balta\bin\Debug\net6.0\Balta.dll
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\Bloco_Fundamentos_orientação_a_objetos\Mao_na_massa\Balta\Balta\bin\Debug\net6.0\Balta.pdb
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\Bloco_Fundamentos_orientação_a_objetos\Mao_na_massa\Balta\Balta\obj\Debug\net6.0\Balta.csproj.AssemblyReference.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\Bloco_Fundamentos_orientação_a_objetos\Mao_na_massa\Balta\Balta\obj\Debug\net6.0\Balta.GeneratedMSBuildEditorConfig.editorconfig
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\Bloco_Fundamentos_orientação_a_objetos\Mao_na_massa\Balta\Balta\obj\Debug\net6.0\Balta.AssemblyInfoInputs.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\Bloco_Fundamentos_orientação_a_objetos\Mao_na_massa\Balta\Balta\obj\Debug\net6.0\Balta.AssemblyInfo.cs
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\Bloco_Fundamentos_orientação_a_objetos\Mao_na_massa\Balta\Balta\obj\Debug\net6.0\Balta.csproj.CoreCompileInputs.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\Bloco_Fundamentos_orientação_a_objetos\Mao_na_massa\Balta\Balta\obj\Debug\net6.0\Balta.dll
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\Bloco_Fundamentos_orientação_a_objetos\Mao_na_massa\Balta\Balta\obj\Debug\net6.0\refint\Balta.dll
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\Bloco_Fundamentos_orientação_a_objetos\Mao_na_massa\Balta\Balta\obj\Debug\net6.0\Balta.pdb
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\Bloco_Fundamentos_orientação_a_objetos\Mao_na_massa\Balta\Balta\obj\Debug\net6.0\Balta.genruntimeconfig.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Cursos_Balta\Bloco_Fundamentos_orientação_a_objetos\Mao_na_massa\Balta\Balta\obj\Debug\net6.0\ref\Balta.dll
