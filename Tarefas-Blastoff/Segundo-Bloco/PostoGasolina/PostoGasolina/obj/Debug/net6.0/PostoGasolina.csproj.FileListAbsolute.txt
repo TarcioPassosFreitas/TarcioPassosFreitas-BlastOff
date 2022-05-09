@@ -1,0 +1,15 @@
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\PostoGasolina\PostoGasolina\bin\Debug\net6.0\PostoGasolina.exe
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\PostoGasolina\PostoGasolina\bin\Debug\net6.0\PostoGasolina.deps.json
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\PostoGasolina\PostoGasolina\bin\Debug\net6.0\PostoGasolina.runtimeconfig.json
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\PostoGasolina\PostoGasolina\bin\Debug\net6.0\PostoGasolina.dll
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\PostoGasolina\PostoGasolina\bin\Debug\net6.0\PostoGasolina.pdb
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\PostoGasolina\PostoGasolina\obj\Debug\net6.0\PostoGasolina.csproj.AssemblyReference.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\PostoGasolina\PostoGasolina\obj\Debug\net6.0\PostoGasolina.GeneratedMSBuildEditorConfig.editorconfig
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\PostoGasolina\PostoGasolina\obj\Debug\net6.0\PostoGasolina.AssemblyInfoInputs.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\PostoGasolina\PostoGasolina\obj\Debug\net6.0\PostoGasolina.AssemblyInfo.cs
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\PostoGasolina\PostoGasolina\obj\Debug\net6.0\PostoGasolina.csproj.CoreCompileInputs.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\PostoGasolina\PostoGasolina\obj\Debug\net6.0\PostoGasolina.dll
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\PostoGasolina\PostoGasolina\obj\Debug\net6.0\refint\PostoGasolina.dll
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\PostoGasolina\PostoGasolina\obj\Debug\net6.0\PostoGasolina.pdb
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\PostoGasolina\PostoGasolina\obj\Debug\net6.0\PostoGasolina.genruntimeconfig.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\PostoGasolina\PostoGasolina\obj\Debug\net6.0\ref\PostoGasolina.dll
