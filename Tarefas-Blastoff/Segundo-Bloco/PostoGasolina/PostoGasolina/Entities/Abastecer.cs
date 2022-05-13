@@ -12,6 +12,7 @@ namespace PostoGasolina.Entities
         private TypePump tipoCombustivel;
         private double valorEmReais;
         private double quantosLitros;
+        private 
 
         public Abastecer(TypePump tipoCombustivel, double valorEmReais)
         {

@@ -73,7 +73,7 @@ namespace Sortear
         {
             try
             {
-                this.Player.SoundLocation = @"somShenlong.wav";
+                this.Player.SoundLocation = @"gritaria.wav";
                 this.Player.PlayLooping();
             }
             catch (Exception ex)

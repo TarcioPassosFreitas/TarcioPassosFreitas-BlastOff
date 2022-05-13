@@ -52,7 +52,6 @@ namespace Sortear
             {
                 if (planilha.Cell($"A{i}").Value.Equals(""))
                 {
-                    Console.WriteLine("lalala");
                     totalLinhas--;
                 }
             }

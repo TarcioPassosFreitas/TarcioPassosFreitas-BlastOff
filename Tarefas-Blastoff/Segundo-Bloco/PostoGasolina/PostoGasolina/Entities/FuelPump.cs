@@ -11,8 +11,9 @@ namespace PostoGasolina.Entities
     internal class FuelPump
     {
         private TypePump typePump;
-        private double valorLitro;
-        private double quantidadeCombustivel;
+        private double valorLitro = 5.00;
+        private double quantidadeCombustivel = 10000.00;
+        double quantidadeLitros = 1;
 
         public TypePump GetTypePump()
         {
@@ -32,17 +33,18 @@ namespace PostoGasolina.Entities
         //método onde é informado o valor a ser abastecido e mostra a quantidade de litros que foi colocada no veículo
         public void abastecerPorValor(double valorReais)
         {
-            double quantidadeLitros = (valorReais / valorLitro);
-            Console.WriteLine($"A quantidade de litros correspondente a $: {valorReais:F2} de {this.typePump} é de {quantidadeLitros:F2} Litros");
+            this.quantidadeLitros = (valorReais / valorLitro);
+            Console.WriteLine($"A quantidade de litros correspondente a R$: {valorReais:F2} de {this.typePump} é de {quantidadeLitros:F2} Litros");
             alterarQuantidadeCombustivel(quantidadeLitros);
         }
 
         //método onde é informado a quantidade em litros de combustível e mostra o valor a ser pago pelo cliente
-        public void abastecerPorLitro(double litros)
+        public void abastecerPorLitro(double litro)
         {
-            double litrosEmReais = (valorLitro * litros);
-            Console.WriteLine($"Para abastecer {litros:F2} litros de {this.typePump} o valor é de R$: {litrosEmReais:F2} ");
-            alterarQuantidadeCombustivel(litros);
+            this.quantidadeLitros = litro;
+            double litrosEmReais = (valorLitro * this.quantidadeLitros);
+            Console.WriteLine($"Para abastecer {this.quantidadeLitros:F2} litros de {this.typePump} o valor é de R$: {litrosEmReais:F2} ");
+            alterarQuantidadeCombustivel(this.quantidadeLitros);
 
         }
 
