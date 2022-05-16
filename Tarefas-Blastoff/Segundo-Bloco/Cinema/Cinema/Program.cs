@@ -17,7 +17,7 @@ namespace Cinema
             bool optionPossible;
 
             Console.Clear();
-            System.Console.WriteLine("Bem-vindo ao Cinema Plus Ultra"); //Bem-vindo ao Discover Game!
+            System.Console.WriteLine("Bem-vindo ao Cinema Plus Ultra");
             System.Console.WriteLine("1 - Compra de Ingressos");
             System.Console.WriteLine("0 - Exit");
 

@@ -1,0 +1,15 @@
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\BibliotecaFuncional\BibliotecaFuncional\bin\Debug\net6.0\BibliotecaFuncional.exe
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\BibliotecaFuncional\BibliotecaFuncional\bin\Debug\net6.0\BibliotecaFuncional.deps.json
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\BibliotecaFuncional\BibliotecaFuncional\bin\Debug\net6.0\BibliotecaFuncional.runtimeconfig.json
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\BibliotecaFuncional\BibliotecaFuncional\bin\Debug\net6.0\BibliotecaFuncional.dll
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\BibliotecaFuncional\BibliotecaFuncional\bin\Debug\net6.0\BibliotecaFuncional.pdb
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\BibliotecaFuncional\BibliotecaFuncional\obj\Debug\net6.0\BibliotecaFuncional.csproj.AssemblyReference.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\BibliotecaFuncional\BibliotecaFuncional\obj\Debug\net6.0\BibliotecaFuncional.GeneratedMSBuildEditorConfig.editorconfig
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\BibliotecaFuncional\BibliotecaFuncional\obj\Debug\net6.0\BibliotecaFuncional.AssemblyInfoInputs.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\BibliotecaFuncional\BibliotecaFuncional\obj\Debug\net6.0\BibliotecaFuncional.AssemblyInfo.cs
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\BibliotecaFuncional\BibliotecaFuncional\obj\Debug\net6.0\BibliotecaFuncional.csproj.CoreCompileInputs.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\BibliotecaFuncional\BibliotecaFuncional\obj\Debug\net6.0\BibliotecaFuncional.dll
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\BibliotecaFuncional\BibliotecaFuncional\obj\Debug\net6.0\refint\BibliotecaFuncional.dll
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\BibliotecaFuncional\BibliotecaFuncional\obj\Debug\net6.0\BibliotecaFuncional.pdb
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\BibliotecaFuncional\BibliotecaFuncional\obj\Debug\net6.0\BibliotecaFuncional.genruntimeconfig.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\BibliotecaFuncional\BibliotecaFuncional\obj\Debug\net6.0\ref\BibliotecaFuncional.dll

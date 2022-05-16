@@ -15,6 +15,11 @@ namespace BibliotecaFuncional.Entities
 
         }
 
+        public void AddList(Livro l1)
+        {
+            this.livros.Add(l1);
+        }
+
         public List<Livro> GetLivros()
         {
             return livros;
@@ -22,12 +27,26 @@ namespace BibliotecaFuncional.Entities
 
         public void MaiorQuantidadePaginas()
         {
+            List<Livro> sorted = livros.OrderBy(x => x.GetQuantidadePaginas()).ToList();
+            sorted.Reverse();
+            Console.WriteLine("Maior quantidade de páginas em ordem decrescente");
+            foreach (Livro livro in sorted)
+            {
+                Console.WriteLine(livro.GetTitulo() + ", " + livro.GetISBN() + ", " +  
+                    livro.GetQuantidadePaginas()) ;
+            }
 
         }
 
         public void MenorQuantidadePaginas()
         {
-
+            List<Livro> sorted = livros.OrderBy(x => x.GetQuantidadePaginas()).ToList();
+            Console.WriteLine("Menor quantidade de páginas em ordem decrescente");
+            foreach (Livro livro in sorted)
+            {
+                Console.WriteLine(livro.GetTitulo() + ", " + livro.GetISBN() + ", " +
+                    livro.GetQuantidadePaginas());
+            }
         }
     }
 }
