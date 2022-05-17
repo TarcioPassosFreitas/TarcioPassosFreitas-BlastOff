@@ -1,0 +1,15 @@
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\Astronomia\Astronomia\bin\Debug\net6.0\Astronomia.exe
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\Astronomia\Astronomia\bin\Debug\net6.0\Astronomia.deps.json
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\Astronomia\Astronomia\bin\Debug\net6.0\Astronomia.runtimeconfig.json
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\Astronomia\Astronomia\bin\Debug\net6.0\Astronomia.dll
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\Astronomia\Astronomia\bin\Debug\net6.0\Astronomia.pdb
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\Astronomia\Astronomia\obj\Debug\net6.0\Astronomia.csproj.AssemblyReference.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\Astronomia\Astronomia\obj\Debug\net6.0\Astronomia.GeneratedMSBuildEditorConfig.editorconfig
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\Astronomia\Astronomia\obj\Debug\net6.0\Astronomia.AssemblyInfoInputs.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\Astronomia\Astronomia\obj\Debug\net6.0\Astronomia.AssemblyInfo.cs
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\Astronomia\Astronomia\obj\Debug\net6.0\Astronomia.csproj.CoreCompileInputs.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\Astronomia\Astronomia\obj\Debug\net6.0\Astronomia.dll
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\Astronomia\Astronomia\obj\Debug\net6.0\refint\Astronomia.dll
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\Astronomia\Astronomia\obj\Debug\net6.0\Astronomia.pdb
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\Astronomia\Astronomia\obj\Debug\net6.0\Astronomia.genruntimeconfig.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\Astronomia\Astronomia\obj\Debug\net6.0\ref\Astronomia.dll
