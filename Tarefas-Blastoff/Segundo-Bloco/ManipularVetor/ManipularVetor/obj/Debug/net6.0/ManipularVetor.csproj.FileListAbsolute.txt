@@ -1,0 +1,15 @@
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\ManipularVetor\ManipularVetor\bin\Debug\net6.0\ManipularVetor.exe
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\ManipularVetor\ManipularVetor\bin\Debug\net6.0\ManipularVetor.deps.json
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\ManipularVetor\ManipularVetor\bin\Debug\net6.0\ManipularVetor.runtimeconfig.json
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\ManipularVetor\ManipularVetor\bin\Debug\net6.0\ManipularVetor.dll
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\ManipularVetor\ManipularVetor\bin\Debug\net6.0\ManipularVetor.pdb
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\ManipularVetor\ManipularVetor\obj\Debug\net6.0\ManipularVetor.csproj.AssemblyReference.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\ManipularVetor\ManipularVetor\obj\Debug\net6.0\ManipularVetor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\ManipularVetor\ManipularVetor\obj\Debug\net6.0\ManipularVetor.AssemblyInfoInputs.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\ManipularVetor\ManipularVetor\obj\Debug\net6.0\ManipularVetor.AssemblyInfo.cs
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\ManipularVetor\ManipularVetor\obj\Debug\net6.0\ManipularVetor.csproj.CoreCompileInputs.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\ManipularVetor\ManipularVetor\obj\Debug\net6.0\ManipularVetor.dll
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\ManipularVetor\ManipularVetor\obj\Debug\net6.0\refint\ManipularVetor.dll
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\ManipularVetor\ManipularVetor\obj\Debug\net6.0\ManipularVetor.pdb
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\ManipularVetor\ManipularVetor\obj\Debug\net6.0\ManipularVetor.genruntimeconfig.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\ManipularVetor\ManipularVetor\obj\Debug\net6.0\ref\ManipularVetor.dll
