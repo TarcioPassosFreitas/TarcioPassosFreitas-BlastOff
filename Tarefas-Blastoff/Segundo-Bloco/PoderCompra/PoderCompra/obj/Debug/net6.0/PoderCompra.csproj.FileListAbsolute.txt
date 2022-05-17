@@ -1,0 +1,15 @@
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\PoderCompra\PoderCompra\bin\Debug\net6.0\PoderCompra.exe
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\PoderCompra\PoderCompra\bin\Debug\net6.0\PoderCompra.deps.json
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\PoderCompra\PoderCompra\bin\Debug\net6.0\PoderCompra.runtimeconfig.json
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\PoderCompra\PoderCompra\bin\Debug\net6.0\PoderCompra.dll
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\PoderCompra\PoderCompra\bin\Debug\net6.0\PoderCompra.pdb
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\PoderCompra\PoderCompra\obj\Debug\net6.0\PoderCompra.csproj.AssemblyReference.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\PoderCompra\PoderCompra\obj\Debug\net6.0\PoderCompra.GeneratedMSBuildEditorConfig.editorconfig
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\PoderCompra\PoderCompra\obj\Debug\net6.0\PoderCompra.AssemblyInfoInputs.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\PoderCompra\PoderCompra\obj\Debug\net6.0\PoderCompra.AssemblyInfo.cs
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\PoderCompra\PoderCompra\obj\Debug\net6.0\PoderCompra.csproj.CoreCompileInputs.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\PoderCompra\PoderCompra\obj\Debug\net6.0\PoderCompra.dll
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\PoderCompra\PoderCompra\obj\Debug\net6.0\refint\PoderCompra.dll
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\PoderCompra\PoderCompra\obj\Debug\net6.0\PoderCompra.pdb
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\PoderCompra\PoderCompra\obj\Debug\net6.0\PoderCompra.genruntimeconfig.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\PoderCompra\PoderCompra\obj\Debug\net6.0\ref\PoderCompra.dll
