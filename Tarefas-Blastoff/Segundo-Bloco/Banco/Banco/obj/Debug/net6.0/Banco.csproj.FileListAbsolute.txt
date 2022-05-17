@@ -1,0 +1,15 @@
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\Banco\Banco\bin\Debug\net6.0\Banco.exe
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\Banco\Banco\bin\Debug\net6.0\Banco.deps.json
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\Banco\Banco\bin\Debug\net6.0\Banco.runtimeconfig.json
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\Banco\Banco\bin\Debug\net6.0\Banco.dll
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\Banco\Banco\bin\Debug\net6.0\Banco.pdb
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\Banco\Banco\obj\Debug\net6.0\Banco.csproj.AssemblyReference.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\Banco\Banco\obj\Debug\net6.0\Banco.GeneratedMSBuildEditorConfig.editorconfig
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\Banco\Banco\obj\Debug\net6.0\Banco.AssemblyInfoInputs.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\Banco\Banco\obj\Debug\net6.0\Banco.AssemblyInfo.cs
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\Banco\Banco\obj\Debug\net6.0\Banco.csproj.CoreCompileInputs.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\Banco\Banco\obj\Debug\net6.0\Banco.dll
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\Banco\Banco\obj\Debug\net6.0\refint\Banco.dll
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\Banco\Banco\obj\Debug\net6.0\Banco.pdb
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\Banco\Banco\obj\Debug\net6.0\Banco.genruntimeconfig.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\Banco\Banco\obj\Debug\net6.0\ref\Banco.dll
