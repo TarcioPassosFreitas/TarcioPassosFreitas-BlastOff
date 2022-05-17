@@ -1,0 +1,15 @@
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\Museu\Museu\bin\Debug\net6.0\Museu.exe
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\Museu\Museu\bin\Debug\net6.0\Museu.deps.json
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\Museu\Museu\bin\Debug\net6.0\Museu.runtimeconfig.json
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\Museu\Museu\bin\Debug\net6.0\Museu.dll
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\Museu\Museu\bin\Debug\net6.0\Museu.pdb
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\Museu\Museu\obj\Debug\net6.0\Museu.csproj.AssemblyReference.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\Museu\Museu\obj\Debug\net6.0\Museu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\Museu\Museu\obj\Debug\net6.0\Museu.AssemblyInfoInputs.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\Museu\Museu\obj\Debug\net6.0\Museu.AssemblyInfo.cs
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\Museu\Museu\obj\Debug\net6.0\Museu.csproj.CoreCompileInputs.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\Museu\Museu\obj\Debug\net6.0\Museu.dll
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\Museu\Museu\obj\Debug\net6.0\refint\Museu.dll
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\Museu\Museu\obj\Debug\net6.0\Museu.pdb
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\Museu\Museu\obj\Debug\net6.0\Museu.genruntimeconfig.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\Museu\Museu\obj\Debug\net6.0\ref\Museu.dll
