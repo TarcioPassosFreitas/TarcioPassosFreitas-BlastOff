@@ -4,66 +4,14 @@ namespace Rectangle
 {
     internal class Program
     {
+        private static double comprimentoPiso;
+
         static void Main(string[] args)
         {
             Menu();
         }
 
-        static void FuncaoPrincipal()
-        {
-            double length;
-            double width;
-
-            Console.WriteLine("Sistema de ajuda metragem de pisos");
-            Console.WriteLine("Por favor, insira os dados do piso");
-
-            Console.WriteLine("Insira o valor do comprimento do piso: ");
-            Thread.Sleep(2500);
-            Console.ReadLine();
-
-            length = Validation();
-
-            Console.WriteLine("Insira o valor do largura do piso: ");
-            Thread.Sleep(2500);
-            Console.ReadLine();
-
-            width = Validation();
-
-            ModelRetangle rect1 = new ModelRetangle(length, width);
-
-            Console.Clear();
-
-            Console.WriteLine("Por favor, insira os dados do cômodo");
-
-            Console.WriteLine("Insira o valor do comprimento do cômodo: ");
-            Thread.Sleep(2500);
-            Console.ReadLine();
-
-            length = Validation();
-
-            Console.WriteLine("Insira o valor do largura do cômodo: ");
-            Thread.Sleep(2500);
-            Console.ReadLine();
-
-            width = Validation();
-
-            ModelRetangle rect2 = new ModelRetangle(length, width);
-
-            Console.WriteLine("Qual o tamanho do rodapé que deseja no seu cômodo");
-            Thread.Sleep(2500);
-
-            double tamanhorodape;
-
-            tamanhorodape = Validation();
-
-            Bricklayer bricklayer = new Bricklayer(rect1, rect2, tamanhorodape);
-            bricklayer.MethodNumberOfFloors();
-            bricklayer.MethodNumberBaseBoard();
-
-
-
-
-        }
+        
 
         static void Menu()
         {
@@ -79,7 +27,7 @@ namespace Rectangle
             if (!optionPossible)
             {
                 Console.Clear();
-                System.Console.WriteLine("Enter the value in the indicated range"); //Insira o valor no intervalo indicado
+                System.Console.WriteLine("Insira o valor no intervalo indicado");
                 Thread.Sleep(2500);
                 Menu();
             }
@@ -87,7 +35,48 @@ namespace Rectangle
             {
                 switch (option)
                 {
-                    case 1: FuncaoPrincipal(); break;
+                    case 1:
+                        {
+                            double ComprimentoPiso;
+                            double larguraPiso;
+                            double comprimento;
+                            double largura;
+                            bool possivel;
+
+                            do
+                            {
+                                Console.WriteLine("Digite o comprimento da sua residência em metros");
+                                possivel = double.TryParse(Console.ReadLine(), out comprimento);
+                            } while (!possivel || comprimento < 10);
+
+                            do
+                            {
+                                Console.WriteLine("Digite a largura da sua residência em metros");
+                                possivel = double.TryParse(Console.ReadLine(), out largura);
+                            } while (!possivel || largura < 10);
+
+                            do
+                            {
+                                Console.WriteLine("Digite o comprimento que vc deseja o seu piso em cm");
+                                possivel = double.TryParse(Console.ReadLine(), out ComprimentoPiso);
+                            } while (!possivel || largura < 4.5 || largura > 300);
+
+                            do
+                            {
+                                Console.WriteLine("Digite a largura da sua residência em cm");
+                                possivel = double.TryParse(Console.ReadLine(), out larguraPiso);
+                            } while (!possivel || largura < 4.5 || largura > 300);
+
+                            RetanguloModelo rm = new RetanguloModelo(comprimento, largura, comprimentoPiso, larguraPiso);
+
+                            rm.QuantidadePisos();
+
+                            Thread.Sleep(1000);
+                            Console.WriteLine("Dê enter para voltar ao Menu");
+                            Console.ReadLine();
+                            Menu();
+                            break;
+                        }
                     case 0:
                         {
                             Console.Clear();
@@ -104,30 +93,6 @@ namespace Rectangle
                         }
                 }
             }
-        }
-
-        static double Validation()
-        {
-            Console.Clear();
-
-            double value = 0;
-            bool itsPossible;
-            itsPossible = double.TryParse(Console.ReadLine(), out value);
-
-            if (!itsPossible || value <= 4 || value > 200 )
-            {
-                Console.WriteLine("O valor está fora do intervalo determinado. Por favor entre com um outro valor.");
-                Thread.Sleep(1000);
-                Console.WriteLine("Aperte enter para voltar à entrada de dados");
-                Console.ReadLine();
-
-                return Validation();
-            }
-            else
-            {
-                return value;
-            }
-            
         }
     }
 }

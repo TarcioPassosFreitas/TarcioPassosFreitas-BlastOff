@@ -25,7 +25,7 @@ namespace Cinema
             if (!optionPossible || option < 0 || option > 1)
             {
                 Console.Clear();
-                System.Console.WriteLine("Enter the value in the indicated range"); //Insira o valor no intervalo indicado
+                System.Console.WriteLine("Insira o valor no intervalo indicado");
                 Thread.Sleep(2500);
                 Menu();
             }
@@ -43,7 +43,7 @@ namespace Cinema
                     default:
                         {
                             Console.Clear();
-                            System.Console.WriteLine("Enter the value in the indicated range"); //Insira o valor no intervalo indicado
+                            System.Console.WriteLine("Insira o valor no intervalo indicado");
                             Thread.Sleep(2500);
                             Menu();
                             break;
@@ -210,9 +210,6 @@ namespace Cinema
 
         static void CadeirasOcupadas(string cadeira , List<string> list)
         {
-            //var pesquisa = from aux in list
-            //               where aux == cadeira
-            //               select aux;
             if (!list.Remove(cadeira))
             {
                 Console.WriteLine("Essa cadeira não existe");
