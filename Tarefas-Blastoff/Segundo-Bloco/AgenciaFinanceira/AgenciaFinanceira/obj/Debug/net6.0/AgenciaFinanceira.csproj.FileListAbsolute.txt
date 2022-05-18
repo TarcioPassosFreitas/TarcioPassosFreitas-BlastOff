@@ -1,0 +1,15 @@
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\AgenciaFinanceira\AgenciaFinanceira\obj\Debug\net6.0\AgenciaFinanceira.csproj.AssemblyReference.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\AgenciaFinanceira\AgenciaFinanceira\obj\Debug\net6.0\AgenciaFinanceira.GeneratedMSBuildEditorConfig.editorconfig
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\AgenciaFinanceira\AgenciaFinanceira\obj\Debug\net6.0\AgenciaFinanceira.AssemblyInfoInputs.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\AgenciaFinanceira\AgenciaFinanceira\obj\Debug\net6.0\AgenciaFinanceira.AssemblyInfo.cs
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\AgenciaFinanceira\AgenciaFinanceira\obj\Debug\net6.0\AgenciaFinanceira.csproj.CoreCompileInputs.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\AgenciaFinanceira\AgenciaFinanceira\bin\Debug\net6.0\AgenciaFinanceira.exe
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\AgenciaFinanceira\AgenciaFinanceira\bin\Debug\net6.0\AgenciaFinanceira.deps.json
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\AgenciaFinanceira\AgenciaFinanceira\bin\Debug\net6.0\AgenciaFinanceira.runtimeconfig.json
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\AgenciaFinanceira\AgenciaFinanceira\bin\Debug\net6.0\AgenciaFinanceira.dll
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\AgenciaFinanceira\AgenciaFinanceira\bin\Debug\net6.0\AgenciaFinanceira.pdb
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\AgenciaFinanceira\AgenciaFinanceira\obj\Debug\net6.0\AgenciaFinanceira.dll
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\AgenciaFinanceira\AgenciaFinanceira\obj\Debug\net6.0\refint\AgenciaFinanceira.dll
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\AgenciaFinanceira\AgenciaFinanceira\obj\Debug\net6.0\AgenciaFinanceira.pdb
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\AgenciaFinanceira\AgenciaFinanceira\obj\Debug\net6.0\AgenciaFinanceira.genruntimeconfig.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\AgenciaFinanceira\AgenciaFinanceira\obj\Debug\net6.0\ref\AgenciaFinanceira.dll
