@@ -8,16 +8,18 @@ using System.Threading.Tasks;
 
 namespace PostoGasolina.Entities
 {
-    internal class FuelPump
+    internal class BombaCombustivel
     {
-        private TypePump typePump;
+        private TipoBomba tipoBomba;
         private double valorLitro = 5.00;
         private double quantidadeCombustivel = 10000.00;
         double quantidadeLitros = 1;
 
-        public TypePump GetTypePump()
+
+
+        public TipoBomba GetTypePump()
         {
-            return this.typePump;
+            return this.tipoBomba;
         }
 
         public double GetValorLitro()
@@ -34,17 +36,16 @@ namespace PostoGasolina.Entities
         public void abastecerPorValor(double valorReais)
         {
             this.quantidadeLitros = (valorReais / valorLitro);
-            Console.WriteLine($"A quantidade de litros correspondente a R$: {valorReais:F2} de {this.typePump} é de {quantidadeLitros:F2} Litros");
+            Console.WriteLine($"A quantidade de litros correspondente a R$: {valorReais:F2} de {this.tipoBomba} é de {quantidadeLitros} Litros");
             alterarQuantidadeCombustivel(quantidadeLitros);
         }
 
         //método onde é informado a quantidade em litros de combustível e mostra o valor a ser pago pelo cliente
         public void abastecerPorLitro(double litro)
         {
-            this.quantidadeLitros = litro;
-            double litrosEmReais = (valorLitro * this.quantidadeLitros);
-            Console.WriteLine($"Para abastecer {this.quantidadeLitros:F2} litros de {this.typePump} o valor é de R$: {litrosEmReais:F2} ");
-            alterarQuantidadeCombustivel(this.quantidadeLitros);
+            double litrosEmReais = (valorLitro * litro);
+            Console.WriteLine($"Para abastecer {litro:F2} litros de {this.tipoBomba} o valor é de R$: {litrosEmReais:F2} ");
+            alterarQuantidadeCombustivel(litro);
 
         }
 
@@ -56,18 +57,18 @@ namespace PostoGasolina.Entities
         }
 
         //Inserir tipo do combustível
-        public void InserirCombustivel(TypePump tp)
+        public void InserirCombustivel(TipoBomba tp)
         {
-            this.typePump = tp;
+            this.tipoBomba = tp;
         }
         //Inserir valor 
 
         //altera o tipo do combustível
-        public void alterarCombustivel(TypePump novoValor)
+        public void alterarCombustivel(TipoBomba novoValor)
         {
-            TypePump aux = this.typePump;
-            this.typePump = novoValor;
-            Console.WriteLine($"O tipo de combustível, foi alterado de {aux} para {this.typePump}");
+            TipoBomba aux = this.tipoBomba;
+            this.tipoBomba = novoValor;
+            Console.WriteLine($"O tipo de combustível, foi alterado de {aux} para {this.tipoBomba}");
         }
 
         // altera a quantidade de combustível restante na bomba

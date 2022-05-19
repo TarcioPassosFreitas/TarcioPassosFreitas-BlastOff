@@ -43,24 +43,24 @@ namespace ManipularVetor
                         {
                             Console.Clear();
                             VetorManipulavel vm = new VetorManipulavel();
-                            Console.WriteLine("Gerando valores aleatórios");
+                            Console.WriteLine("Gerando valores aleatórios\n");
                             vm.GerarVetorAleatorio();
-                            Console.WriteLine("Printando valores");
+                            Console.WriteLine("Printando valores\n");
                             vm.PrintValoresVetor();
-                            Console.WriteLine("Parte inteira do float");
+                            Console.WriteLine("Parte inteira do float\n");
                             vm.TruncarValores();
                             do
                             {
-                                Console.WriteLine("Digite um valor para multiplicar por cada setor do vetor");
+                                Console.WriteLine("Digite um valor para multiplicar por cada setor do vetor\n");
                                 multipliquePossible = int.TryParse(Console.ReadLine(), out multipliqueVetor);
                             } while (!multipliquePossible);
-                            Console.WriteLine("Vetor sendo multiplicado");
+                            Console.WriteLine("Vetor sendo multiplicado\n");
                             vm.MultipliqueVetor(multipliqueVetor);
-                            Console.WriteLine("Printando valores atualizados");
+                            Console.WriteLine("Printando valores atualizados\n");
                             vm.PrintValoresVetor();
 
                             Thread.Sleep(1000);
-                            Console.WriteLine("Digite enter para voltar ao Menu");
+                            Console.WriteLine("Digite enter para voltar ao Menu\n");
                             Console.ReadLine();
                             Menu();
 
@@ -69,13 +69,13 @@ namespace ManipularVetor
                     case 2:
                         {
                             MatrizManipulavel mm = new MatrizManipulavel();
-                            Console.WriteLine("Gerar valores aleatórios de uma matriz");
+                            Console.WriteLine("Gerar valores aleatórios de uma matriz\n");
                             mm.GerarMatrizAleatoria();
-                            Console.WriteLine("Soma de todos os números da matriz");
+                            Console.WriteLine("\n");
                             mm.SomarNumerosMatriz();
-                            Console.WriteLine("Menor e maior valor da matriz");
+                            Console.WriteLine("\n");
                             mm.MenorEMaiorValor();
-                            Console.WriteLine("Média dos valores da matriz");
+                            Console.WriteLine("\n");
                             mm.MediaValoresMatriz();
 
                             Thread.Sleep(1000);
@@ -120,14 +120,18 @@ namespace ManipularVetor
                                 possivel = double.TryParse(Console.ReadLine(), out altura);
                             } while (!possivel || altura > 2.8 || altura < 1.10);
 
-                            Console.WriteLine("Digite uma mensagem para aparecer no display");
+                            
+                            Console.WriteLine("Digite uma mensagem para aparecer no display ");
                             mensagem = Console.ReadLine();
+                            
+                            
 
                             Pessoa p = new Pessoa(nome, endereco, telefone, idade, altura);
+                            Console.Clear();
                             p.ImprimirMensagem(mensagem);
 
                             Thread.Sleep(1000);
-                            Console.WriteLine("Digite enter para voltar ao Menu");
+                            Console.WriteLine("Digite enter para voltar ao Menu\n");
                             Console.ReadLine();
                             Menu();
 
@@ -142,7 +146,7 @@ namespace ManipularVetor
                     default:
                         {
                             Console.Clear();
-                            System.Console.WriteLine("Insira o valor no intervalo indicado");
+                            System.Console.WriteLine("Insira o valor no intervalo indicado\n");
                             Thread.Sleep(2500);
                             Menu();
                             break;

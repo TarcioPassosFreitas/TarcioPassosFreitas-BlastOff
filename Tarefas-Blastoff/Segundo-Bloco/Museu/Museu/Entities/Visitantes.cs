@@ -39,6 +39,38 @@ namespace Museu.Entities
             Console.WriteLine($"Ao todo, no Museu, temos {total} unidades.");
         }
 
+        public void InformacaoItem()
+        {
+            if(this.CodTema == 1)
+            {
+                Console.WriteLine(Vintage_itens);
+
+            }else if(this.CodTema == 2)
+            {
+                Console.WriteLine(Numismatica_itens);
+
+            }
+            else if(this.CodTema == 3)
+            {
+                Console.WriteLine(Historia_da_Musica_itens);
+
+            }
+            else if(this.CodTema == 4)
+            {
+                Console.WriteLine(Esculturas_itens);
+
+            }
+            else if(this.CodTema == 5)
+            {
+                Console.WriteLine(Vintage_itens);
+
+            }
+            else
+            {
+                Console.WriteLine("Inválido");
+            }
+        }
+
 
     }
 }

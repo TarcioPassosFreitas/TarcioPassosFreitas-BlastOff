@@ -6,12 +6,9 @@ using System.Threading.Tasks;
 
 namespace Rectangle
 {
-    internal class PisoDimensoes : RetanguloModelo
+    internal class PisoDimensoes
     {
-        public PisoDimensoes(double comprimento, double largura) 
-            : base(comprimento, largura)
-        {
-        }
+       
 
 
     }

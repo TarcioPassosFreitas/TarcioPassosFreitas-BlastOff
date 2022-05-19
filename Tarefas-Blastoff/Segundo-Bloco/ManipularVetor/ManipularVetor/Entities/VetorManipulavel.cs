@@ -24,7 +24,7 @@ namespace ManipularVetor.Entities
         {
             for(int i = 0; i < 5; i++)
             {
-                vetor[i] = (float)random.NextDouble();
+                vetor[i] = (float)random.NextDouble() * 100;
             }
         }
 
@@ -32,7 +32,7 @@ namespace ManipularVetor.Entities
         {
             for(var i = 0; i < 5; i++)
             {
-                Console.WriteLine(vetor[i]);
+                Console.WriteLine($"{vetor[i]:F2}");
             }
         }
 

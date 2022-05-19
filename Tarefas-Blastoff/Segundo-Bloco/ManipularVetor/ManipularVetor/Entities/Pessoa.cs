@@ -51,5 +51,14 @@ namespace ManipularVetor.Entities
         {
             Console.WriteLine(mensagem);
         }
+
+        public override string? ToString()
+        {
+            return $@"Nome : {this.Name}
+                      Endereço : {this.Endereco}
+                      Telefone: {this.Telefone}
+                      Idade : {this.Idade}
+                      Altura : {this.Altura}";
+        }
     }
 }

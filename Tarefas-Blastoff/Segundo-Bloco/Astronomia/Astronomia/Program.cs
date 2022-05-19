@@ -92,7 +92,7 @@ namespace Astronomia
                     default:
                         {
                             Console.WriteLine("Você escolheu o tipo Nebulosa");
-                            tipoCorpo = 3;
+                            tipoCorpo = 2;
                             list.Add(MassaTamanhoNebulosa(tipoCorpo));
                             break;
                         }
@@ -110,7 +110,7 @@ namespace Astronomia
 
         static CorpoCeleste MassaTamanhoAsteroide(int tipoCorpo)
         {
-            string regra = @"^[a-z0-9]+";
+            string regra = @"[A-Z0-9]+";
             Regex regex = new Regex(regra);
             string nome = "";
             double massa;
@@ -123,14 +123,14 @@ namespace Astronomia
                 Console.WriteLine("Digite o Valor da massa:" +
                     "(Parte inteira entre 7 e 1100)");
                 possivel = double.TryParse(Console.ReadLine(), out massa);
-            } while (!possivel || massa > 1100 || massa < 7);
+            } while (!possivel || massa < 7 || massa >1100);
             do
             {
                 Console.Clear();
                 Console.WriteLine("Digite o Valor da ordem da massa:" +
                     "(Deve estar entre 20 e 30");
                 possivel = int.TryParse(Console.ReadLine(), out ordem);
-            } while (!possivel || ordem > 30 || ordem < 20);
+            } while (!possivel || ordem < 20 || ordem > 30);
             do
             {
                 Console.Clear();
@@ -141,7 +141,7 @@ namespace Astronomia
             do
             {
                 Console.Clear();
-                Console.WriteLine("Digite o nome do asteroide:");
+                Console.WriteLine("Digite o nome do asteroide: (Regra: Letra Maiúscula + letra minúscula + número)");
                 nome = Console.ReadLine();
             } while (!regex.IsMatch(nome));
 
@@ -151,7 +151,7 @@ namespace Astronomia
 
         static CorpoCeleste MassaTamanhoPlaneta(int tipoCorpo)
         {
-            string regra = @"^[a-z0-9]+";
+            string regra = @"[a-z0-9]+";
             Regex regex = new Regex(regra);
             string nome = "";
             double massa;
@@ -178,11 +178,11 @@ namespace Astronomia
                 Console.WriteLine("Digite o Valor do tamanho:" +
                     "(Em KM - entre 4.860 e 142.984)");
                 possivel = double.TryParse(Console.ReadLine(), out tamanho);
-            } while (!possivel || tamanho > 142.984 || tamanho < 4.860);
+            } while (!possivel || tamanho < 4.860  || tamanho > 142.984);
             do
             {
                 Console.Clear();
-                Console.WriteLine("Digite o nome do Planeta:");
+                Console.WriteLine("Digite o nome do Planeta: (Regra: Letra Maiúscula + letra minúscula + número)");
                 nome = Console.ReadLine();
             } while (!regex.IsMatch(nome));
 
@@ -192,7 +192,7 @@ namespace Astronomia
 
         static CorpoCeleste MassaTamanhoNebulosa(int tipoCorpo)
         {
-            string regra = @"^[a-z0-9]+";
+            string regra = @"[a-z0-9]+";
             Regex regex = new Regex(regra);
             string nome = "";
             double massa;
@@ -217,7 +217,7 @@ namespace Astronomia
             do
             {
                 Console.Clear();
-                Console.WriteLine("Digite o nome da Nebulosa:");
+                Console.WriteLine("Digite o nome da Nebulosa: (Regra: Letra Maiúscula + letra minúscula + número)");
                 nome = Console.ReadLine();
             } while (!regex.IsMatch(nome));
 
@@ -227,6 +227,7 @@ namespace Astronomia
 
         static void Tela(List<CorpoCeleste> cp)
         {
+            Console.Clear();
             foreach (CorpoCeleste c in cp)
             {
                 Console.WriteLine(c.GetTipo());

@@ -37,6 +37,8 @@ namespace Rectangle
                 {
                     case 1:
                         {
+                            Console.Clear();
+
                             double ComprimentoPiso;
                             double larguraPiso;
                             double comprimento;
@@ -47,29 +49,34 @@ namespace Rectangle
                             {
                                 Console.WriteLine("Digite o comprimento da sua residência em metros");
                                 possivel = double.TryParse(Console.ReadLine(), out comprimento);
-                            } while (!possivel || comprimento < 10);
+                            } while (!possivel || comprimento < 3);
 
                             do
                             {
                                 Console.WriteLine("Digite a largura da sua residência em metros");
                                 possivel = double.TryParse(Console.ReadLine(), out largura);
-                            } while (!possivel || largura < 10);
+                            } while (!possivel || largura < 3);
 
                             do
                             {
-                                Console.WriteLine("Digite o comprimento que vc deseja o seu piso em cm");
+                                Console.WriteLine("Digite o comprimento que vc deseja o seu piso em metros");
+                                Console.WriteLine("Ex: Azulejo de 30cm = 0.3 m");
                                 possivel = double.TryParse(Console.ReadLine(), out ComprimentoPiso);
-                            } while (!possivel || largura < 4.5 || largura > 300);
+                            } while (!possivel || ComprimentoPiso < 0 || ComprimentoPiso > 2);
 
                             do
                             {
-                                Console.WriteLine("Digite a largura da sua residência em cm");
+                                Console.WriteLine("Digite a largura da sua residência em metros");
+                                Console.WriteLine("Ex: Azulejo de 30cm = 0.3 m");
                                 possivel = double.TryParse(Console.ReadLine(), out larguraPiso);
-                            } while (!possivel || largura < 4.5 || largura > 300);
+                            } while (!possivel || larguraPiso < 0 || larguraPiso > 2);
 
-                            RetanguloModelo rm = new RetanguloModelo(comprimento, largura, comprimentoPiso, larguraPiso);
+                            RetanguloModelo rm = new RetanguloModelo(comprimento, largura, ComprimentoPiso, larguraPiso);
 
+                            Console.Clear();
+                            
                             rm.QuantidadePisos();
+                            rm.QuantidadeRodapes();
 
                             Thread.Sleep(1000);
                             Console.WriteLine("Dê enter para voltar ao Menu");
@@ -86,7 +93,7 @@ namespace Rectangle
                     default:
                         {
                             Console.Clear();
-                            System.Console.WriteLine("Enter the value in the indicated range"); //Insira o valor no intervalo indicado
+                            System.Console.WriteLine("Insira o valor no intervalo indicado");
                             Thread.Sleep(1000);
                             Menu();
                             break;

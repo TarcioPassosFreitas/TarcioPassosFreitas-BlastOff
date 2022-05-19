@@ -8,55 +8,43 @@ namespace PostoGasolina
     {
         static void Main(string[] args)
         {
-            
+
             Menu();
-            
+
         }
 
         static void Menu()
         {
             Console.Clear();
             Console.WriteLine("Bem-vindo ao Posto 2 irmãos, aqui o tratamento é diferenciado");
-            Console.WriteLine("Veja os nossos tipos de combustível e digite o nome correspondente ao combustível que deseja abastecer");
 
-            TypePump tp;
-            
-            FuelPump fp = new FuelPump();
+            BombaCombustivel fp = new BombaCombustivel();
 
-            TiposGasolinaConsole();
-            bool possivel = Enum.TryParse<TypePump>(Console.ReadLine(), true, out tp);
-            if (!possivel || (int)tp < 0 || (int)tp > 4)
-            {
-                Console.WriteLine("Entre com um valor no intervalo determinado");
-                Thread.Sleep(1000);
-                Console.WriteLine("Dê enter para voltar ao Menu");
-                Console.ReadLine();
-          
-                Menu();
-            }
-
-            fp.InserirCombustivel(tp);
-            Console.WriteLine(tp.ToString());
-            Thread.Sleep(1000);
-            
-
-            MenuSecundario(fp, tp);
-
-            
+            TiposGasolinaConsole(fp);
 
         }
 
-        static void MenuSecundario(FuelPump fp, TypePump tp)
+        static void MenuSecundario(BombaCombustivel fp, TipoBomba tp)
         {
             Console.Clear();
-            Console.WriteLine("Você deseja:\n 1 - Trocar o tipo de combustível\n2 - Abastecer através de um valor em reais\n3 - Abastecer através da quantidade em litros\n" +
-                "4 - Sair\n5 - àrea de ADM");
-            bool possivel = int.TryParse(Console.ReadLine(), out var condicao);
-            switch (condicao)
+
+
+            short option;
+            bool possivel;
+            do
             {
-                case 1: Menu(); break;
+                Console.WriteLine("Você deseja:\n 1 - Trocar o tipo de combustível\n2 - Abastecer através de um valor em reais\n3 - Abastecer através da quantidade em litros\n" +
+               "4 - Sair\n5 - àrea de ADM");
+                possivel = short.TryParse(Console.ReadLine(), out option);
+            } while (!possivel || option < 1 || option > 5);
+
+            switch (option)
+            {
+                case 1: TiposGasolinaConsole(fp); break;
                 case 2:
                     {
+                        Console.Clear();
+
                         bool possivel2;
                         double valor;
                         int cont = 0;
@@ -82,6 +70,8 @@ namespace PostoGasolina
                     }
                 case 3:
                     {
+                        Console.Clear();
+
                         bool possivel2;
                         double valor;
                         int cont = 0;
@@ -100,6 +90,7 @@ namespace PostoGasolina
                         Thread.Sleep(1000);
                         Console.WriteLine("Dê enter para voltar ao Menu");
                         Console.ReadLine();
+                        Menu();
 
                         break;
                     }
@@ -111,8 +102,10 @@ namespace PostoGasolina
                     }
                 case 5:
                     {
-                        Console.WriteLine("1 - Deseja alterar o valor do litro de combustível\n 2 - Deseja alterar a quantidade de combustível do posto\n");
-                        
+                        Console.Clear();
+
+                        AlterarValores(fp);
+
                         break;
                     }
                 default:
@@ -123,17 +116,87 @@ namespace PostoGasolina
             }
         }
 
-        public static void TiposGasolinaConsole()
+        public static void TiposGasolinaConsole(BombaCombustivel bc)
         {
+
+            TipoBomba tb;
+            bool possivel;
             int i = 0;
-            foreach (var name in Enum.GetNames(typeof(TypePump)))
+
+
+
+            foreach (var name in Enum.GetNames(typeof(TipoBomba)))
             {
                 Console.WriteLine($"{i} - {name}");
                 i++;
+
+            }
+
+            do
+            {
+                Console.WriteLine("Veja os nossos tipos de combustível e digite o número correspondente ao combustível que deseja abastecer");
+                possivel = Enum.TryParse<TipoBomba>(Console.ReadLine(), true, out tb);
+            } while (!possivel || (int)tb < 0 || (int)tb > 4);
+
+            MenuSecundario(bc, tb);
+        }
+
+        public static void AlterarValores(BombaCombustivel bc)
+        {
+            short option;
+            bool possivel;
+
+            do
+            {
+                Console.WriteLine("1 - Deseja alterar o valor do litro de combustível\n 2 - Deseja alterar a quantidade de combustível do posto\n");
+                possivel = short.TryParse(Console.ReadLine(), out option);
+            } while (!possivel || option < 1 || option > 2);
+
+            switch (option)
+            {
+                case 1:
+                    {
+                        double valorLitro;
+
+                        do
+                        {
+                            Console.WriteLine($"Digite o novo valor do litro do combustível. Atualmente tem {bc.GetValorLitro()}");
+                            possivel = double.TryParse(Console.ReadLine(), out valorLitro);
+                        } while (!possivel || valorLitro <= bc.GetValorLitro());
+
+                        bc.alterarValor(valorLitro);
+
+                        Console.WriteLine("Valor alterado");
+                        Thread.Sleep(1000);
+                        Console.WriteLine("Dê enter para voltar ao Menu");
+                        Console.ReadLine();
+                        Menu();
+
+                        break;
+                    }
+                case 2:
+                    {
+                        double litroCombustivelBomba;
+
+                        do
+                        {
+                            Console.WriteLine($"Digite o novo valor da bomba de combustível. Atualmente tem {bc.GetQuantidadeCombustivel()}");
+                            possivel = double.TryParse(Console.ReadLine(), out litroCombustivelBomba);
+                        } while (!possivel || litroCombustivelBomba <= bc.GetQuantidadeCombustivel());
+
+                        bc.alterarQuantidadeCombustivelPosto(litroCombustivelBomba);
+
+                        Console.WriteLine("Valor alterado");
+                        Thread.Sleep(1000);
+                        Console.WriteLine("Dê enter para voltar ao Menu");
+                        Console.ReadLine();
+                        Menu();
+
+                        break;
+                    }
+
             }
 
         }
-
-
     }
 }

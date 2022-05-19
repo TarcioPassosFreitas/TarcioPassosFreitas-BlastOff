@@ -16,19 +16,19 @@ namespace Automovel.Entities
         public void adicionarArCondicionado()
         {
             SetCusto(GetCusto() + 2000);
-            Console.WriteLine($"Valor atual do curso é R$: {GetCusto():F2}");
+            Console.WriteLine($"Valor atual, adicionado o Ar condicionado, é R$: {GetCusto():F2}");
         }
 
         public void direcaoHidraulica()
         {
             SetCusto(GetCusto() +1500);
-            Console.WriteLine($"Valor atual do curso é R$: {GetCusto():F2}");
+            Console.WriteLine($"Valor atual, adicionando a direção hidráulica, é R$: {GetCusto():F2}");
         }
 
         public void vidroEletrico()
         {
             SetCusto(GetCusto() + 800);
-            Console.WriteLine($"Valor atual do curso é R$: {GetCusto():F2}");
+            Console.WriteLine($"Valor atual, adicionado o vidro elétrico,  é R$: {GetCusto():F2}");
         }
 
 

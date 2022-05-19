@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace PostoGasolina.Enums
 {
-    enum TypePump
+    enum TipoBomba
     {
         GASOLINA_COMUM = 0,
         GASOLINA_ADITIVADA = 1,

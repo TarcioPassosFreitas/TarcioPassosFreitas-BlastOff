@@ -27,7 +27,7 @@ namespace Automovel
             if (!optionPossible || option < 0 || option > 2)
             {
                 Console.Clear();
-                System.Console.WriteLine("Enter the value in the indicated range"); //Insira o valor no intervalo indicado
+                System.Console.WriteLine("Insira o valor no intervalo indicado");
                 Thread.Sleep(2500);
                 Menu();
             }
@@ -37,7 +37,7 @@ namespace Automovel
                 {
                     case 1:
                         {
-                            string regra = @"^[a-zA-Z]{3}[0-9][A-Za-z0-9][0-9]{2}$";
+                            string regra = @"[A-Za-z]{3}-[0-9]{4}";
                             Regex regex = new Regex(regra);
 
                             string placa;
@@ -73,6 +73,8 @@ namespace Automovel
                             } while (!possivel || ano < 1990 || ano > 2022);
 
                             AutomovelPadrao ap = new AutomovelPadrao(placa, modelo, combustivel, cor, ano);
+
+                            Console.Clear();
                             Console.WriteLine("Veja o custo com base no tipo de combustível");
                             ap.QuantoCusta();
 
@@ -121,6 +123,8 @@ namespace Automovel
                             
                             Luxo cl = new Luxo(placa, modelo, combustivel, cor, ano);
 
+                            Console.Clear();
+
                             Console.WriteLine("Adicionando ar condicionado:");
                             cl.adicionarArCondicionado();
                             Console.WriteLine("Adicionando Direção Hidráulica");
@@ -144,7 +148,7 @@ namespace Automovel
                     default:
                         {
                             Console.Clear();
-                            System.Console.WriteLine("Enter the value in the indicated range"); //Insira o valor no intervalo indicado
+                            System.Console.WriteLine("Insira o valor no intervalo indicado");
                             Thread.Sleep(2500);
                             Menu();
                             break;

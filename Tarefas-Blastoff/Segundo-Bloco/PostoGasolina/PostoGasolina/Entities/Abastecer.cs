@@ -9,21 +9,20 @@ namespace PostoGasolina.Entities
 {
     internal class Abastecer
     {
-        private TypePump tipoCombustivel;
+        private TipoBomba tipoCombustivel;
         private double valorEmReais;
         private double quantosLitros;
-        private 
 
-        public Abastecer(TypePump tipoCombustivel, double valorEmReais)
+        public Abastecer(TipoBomba tipoCombustivel, double valorEmReais)
         {
             this.tipoCombustivel = tipoCombustivel;
             this.valorEmReais = valorEmReais;
         }
 
-        public Abastecer(TypePump tipoCombustivel, double quantosLitros)
-        {
-            this.tipoCombustivel = tipoCombustivel;
-            this.quantosLitros = quantosLitros;
-        }
+        //public Abastecer(TypePump tipoCombustivel, double quantosLitros)
+        //{
+        //    this.tipoCombustivel = tipoCombustivel;
+        //    this.quantosLitros = quantosLitros;
+        //}
     }
 }

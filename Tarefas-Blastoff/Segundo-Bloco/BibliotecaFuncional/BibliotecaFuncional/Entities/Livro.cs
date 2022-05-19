@@ -56,7 +56,7 @@ namespace BibliotecaFuncional.Entities
 
         public void ExibirDados()
         {
-            Console.WriteLine($"O livro {this.GetTitulo} tem como ISBN: {this.ISBN} e possui {this.QuantidadePaginas} páginas.");
+            Console.WriteLine($"O livro '{this.GetTitulo()}' tem como ISBN: {this.ISBN} e possui {this.QuantidadePaginas} páginas.");
         }
     }
 }

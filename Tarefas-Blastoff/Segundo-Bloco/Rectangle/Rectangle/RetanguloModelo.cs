@@ -43,6 +43,16 @@ namespace Rectangle
             return this.Largura;
         }
 
+        public double GetcomprimentoPiso()
+        {
+            return this.ComprimentoPiso;
+        }
+
+        public double GetlarguraPiso()
+        {
+            return this.LarguraPiso;
+        }
+
         public double CalculateArea()
         {
             return (this.Comprimento * this.Largura);
@@ -60,9 +70,14 @@ namespace Rectangle
 
         public void QuantidadePisos()
         {
-            var aux = CalcularAreaPiso() * 0.01;
-            var quantidade = CalculateArea() / aux;
-            Console.WriteLine($"A quantidade de piso necessário é {quantidade}");
+            double resultado = Math.Ceiling(CalculateArea() / CalcularAreaPiso());
+            Console.WriteLine($"A quantidade de piso necessário é {resultado}");
+        }
+
+        public void QuantidadeRodapes()
+        {
+            double resultado = Math.Ceiling((CalculateArea() / CalcularAreaPiso()) * 0.1 );
+            Console.WriteLine($"A quantidade de piso necessário para o rodapé é {resultado}");
         }
 
 
