@@ -1,0 +1,15 @@
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\GerenciarPagamentos\GerenciarPagamentos\obj\Debug\net6.0\GerenciarPagamentos.csproj.AssemblyReference.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\GerenciarPagamentos\GerenciarPagamentos\obj\Debug\net6.0\GerenciarPagamentos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\GerenciarPagamentos\GerenciarPagamentos\obj\Debug\net6.0\GerenciarPagamentos.AssemblyInfoInputs.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\GerenciarPagamentos\GerenciarPagamentos\obj\Debug\net6.0\GerenciarPagamentos.AssemblyInfo.cs
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\GerenciarPagamentos\GerenciarPagamentos\obj\Debug\net6.0\GerenciarPagamentos.csproj.CoreCompileInputs.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\GerenciarPagamentos\GerenciarPagamentos\bin\Debug\net6.0\GerenciarPagamentos.exe
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\GerenciarPagamentos\GerenciarPagamentos\bin\Debug\net6.0\GerenciarPagamentos.deps.json
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\GerenciarPagamentos\GerenciarPagamentos\bin\Debug\net6.0\GerenciarPagamentos.runtimeconfig.json
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\GerenciarPagamentos\GerenciarPagamentos\bin\Debug\net6.0\GerenciarPagamentos.dll
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\GerenciarPagamentos\GerenciarPagamentos\bin\Debug\net6.0\GerenciarPagamentos.pdb
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\GerenciarPagamentos\GerenciarPagamentos\obj\Debug\net6.0\GerenciarPagamentos.dll
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\GerenciarPagamentos\GerenciarPagamentos\obj\Debug\net6.0\refint\GerenciarPagamentos.dll
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\GerenciarPagamentos\GerenciarPagamentos\obj\Debug\net6.0\GerenciarPagamentos.pdb
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\GerenciarPagamentos\GerenciarPagamentos\obj\Debug\net6.0\GerenciarPagamentos.genruntimeconfig.cache
+D:\Blastoff_cursos\TarcioPassosFreitas-BlastOff\Tarefas-Blastoff\Segundo-Bloco\GerenciarPagamentos\GerenciarPagamentos\obj\Debug\net6.0\ref\GerenciarPagamentos.dll

@@ -8,21 +8,7 @@ namespace PostoGasolina
     {
         static void Main(string[] args)
         {
-            //FuelPump fp = new FuelPump();
-
-            //string name = "GNVvfr";
-            //TypePump tp;
-            //bool possivel = Enum.TryParse<TypePump>(name, true, out tp);
-            //if (possivel)
-            //{
-            //    Console.WriteLine(tp.ToString());
-            //}
-            //else
-            //{
-            //    Console.WriteLine("drogaaaa");
-            //}
-
-            ////fp.TiposGasolinaConsole();
+            
             Menu();
             
         }
@@ -126,7 +112,7 @@ namespace PostoGasolina
                 case 5:
                     {
                         Console.WriteLine("1 - Deseja alterar o valor do litro de combustível\n 2 - Deseja alterar a quantidade de combustível do posto\n");
-                        int 
+                        
                         break;
                     }
                 default:

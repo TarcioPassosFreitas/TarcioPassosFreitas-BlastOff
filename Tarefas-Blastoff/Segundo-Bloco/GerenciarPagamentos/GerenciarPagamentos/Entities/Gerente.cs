@@ -29,9 +29,10 @@ namespace GerenciarPagamentos.Entities
         }
 
         
-        public override void Bonificacao(Funcionario funcionario)
+        public override void CalcularBonificacao(Funcionario funcionario)
         {
-            return 1.1 * funcionario.GetSalario();
+            funcionario.SetSalario(1.1 * funcionario.GetSalario());
+            Console.WriteLine($"A bonificação foi feita ao Gerente {funcionario.GetNome()}");
         }
     }
 }

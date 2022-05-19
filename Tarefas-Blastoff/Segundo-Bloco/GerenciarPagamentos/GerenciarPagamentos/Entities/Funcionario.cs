@@ -41,7 +41,8 @@ namespace GerenciarPagamentos.Entities
 
         public virtual void CalcularBonificacao(Funcionario funcionario)
         {
-
+            Console.WriteLine("O funcionário não pode receber bonificação no momento, mas quem sabe no futuro." +
+                "Trabalhe bastante e conquiste. Plus Ultra!!!!");
         }
     }
 }
