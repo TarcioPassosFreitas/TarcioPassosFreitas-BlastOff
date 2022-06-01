@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Banco.Entities
 {
-    internal class Conta
+    internal abstract class Conta
     {
         private string Numero;
         private string Agencia;

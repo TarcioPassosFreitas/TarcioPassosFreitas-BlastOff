@@ -230,7 +230,7 @@ namespace Astronomia
             Console.Clear();
             foreach (CorpoCeleste c in cp)
             {
-                Console.WriteLine(c.GetTipo());
+                Console.WriteLine($" Tipo = {c.GetTipo()} Tamanho = {c.GetTamanho()} Nome = {c.GetNome()}");
             }
         }
     }

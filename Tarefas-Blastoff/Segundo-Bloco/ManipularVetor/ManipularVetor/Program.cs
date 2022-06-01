@@ -128,6 +128,10 @@ namespace ManipularVetor
 
                             Pessoa p = new Pessoa(nome, endereco, telefone, idade, altura);
                             Console.Clear();
+
+                            Console.WriteLine(p.GetName());
+                            Console.WriteLine(p.GetIdade());
+                            Console.WriteLine(p.GetAltura());
                             p.ImprimirMensagem(mensagem);
 
                             Thread.Sleep(1000);

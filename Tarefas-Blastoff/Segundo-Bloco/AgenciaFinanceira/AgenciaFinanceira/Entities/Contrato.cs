@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace AgenciaFinanceira.Entities
 {
-    internal class Contrato
+    internal abstract class Contrato
     {
         private int Numero;
         private string? Contratante;

@@ -116,7 +116,7 @@ namespace AgenciaFinanceira
                             {
                                 Console.WriteLine("Digite a sua CNPJ no formato: XX.XXX.XXX/0001-XX");
                                 cnpj = Console.ReadLine();
-                            } while (!regexCnpj.IsMatch(cnpj) || cnpj.Equals(""));
+                            } while (!regexCnpj.IsMatch(cnpj));
                             ContratoPessoaJuridica pj = new ContratoPessoaJuridica(numero, nomeContratante, Valor_fincanciamento, prazo, cnpj, numIncricao);
                             MenuPessoaJuridicaOpcoes(pj);
 
@@ -240,7 +240,7 @@ namespace AgenciaFinanceira
                             pj.calcularPrestacao();
                             Console.WriteLine("O valor da prestação foi calculada");
                             Thread.Sleep(1000);
-                            Console.WriteLine("Dê um enter para voltar ao menu Pessoa física");
+                            Console.WriteLine("Dê um enter para voltar ao menu Pessoa Jurídica");
                             Console.ReadLine();
                             MenuPessoaJuridicaOpcoes(pj);
                             break;
@@ -249,7 +249,7 @@ namespace AgenciaFinanceira
                         {
                             pj.exibirInfo();
                             Thread.Sleep(1000);
-                            Console.WriteLine("Dê um enter para voltar ao menu Pessoa física");
+                            Console.WriteLine("Dê um enter para voltar ao menu Pessoa Jurídica");
                             Console.ReadLine();
                             MenuPessoaJuridicaOpcoes(pj);
                             break;

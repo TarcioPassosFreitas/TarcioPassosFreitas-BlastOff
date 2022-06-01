@@ -27,12 +27,11 @@ namespace PoderCompra.Entities
         {
             if(valor.GetType() == typeof(Compra))
             {
-                Console.WriteLine($"O preço é {base.GetPreco} e as parcelas {base.GetParcelas}");
+                Console.WriteLine($"O preço é {base.GetPreco()} e as parcelas {base.GetParcelas()}");
             }else if (valor.GetType() == typeof(ContaEstudante))
             {
                 base.SetPreco(base.GetPreco() / 2);
-                base.SetParcelas(base.GetParcelas() / 2);
-                Console.WriteLine($"O preço é {base.GetPreco} e as parcelas {base.GetParcelas}");
+                Console.WriteLine($"O preço é {base.GetPreco()} e as parcelas {base.GetParcelas() / 2}");
             }
         }
     }

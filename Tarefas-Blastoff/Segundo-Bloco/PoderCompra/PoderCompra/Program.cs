@@ -98,10 +98,10 @@ namespace PoderCompra
                             tipo = Console.ReadLine();
 
                             ContaEstudante ce = new ContaEstudante(preco, parcelas, tipo);
-                            Console.WriteLine("Pagar parcela");
-                            ce.PagarParcela();
-                            Console.WriteLine("Quitar compra");
-                            ce.QuitarCompra();
+                            //Console.WriteLine("Pagar parcela");
+                            //ce.PagarParcela();
+                            //Console.WriteLine("Quitar compra");
+                            //ce.QuitarCompra();
 
                             ce.Valores(new ContaEstudante(150.00, 3, "Diversão"));
                             Thread.Sleep(2500);

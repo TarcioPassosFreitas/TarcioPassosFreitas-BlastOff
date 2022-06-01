@@ -117,8 +117,8 @@ namespace Museu
 
                             VisitantesPremium vp = new VisitantesPremium(nome, cpf, Convert.ToDateTime(Nascimentoformatada), codTema);
 
-                            Console.WriteLine("você comprou algo? quanto custou?");
-                            vp.Saldo();
+                            //Console.WriteLine("você comprou algo? quanto custou?");
+                            Console.WriteLine(vp.Saldo());
                             Thread.Sleep(1000);
                             Console.WriteLine("Dê enter para voltar ao Menu");
                             Console.ReadLine();

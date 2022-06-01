@@ -86,7 +86,7 @@ namespace Automovel
                         }
                     case 2:
                         {
-                            string regra = @"^[a-zA-Z]{3}[0-9][A-Za-z0-9][0-9]{2}$";
+                            string regra = @"[A-Za-z]{3}-[0-9]{4}";
                             Regex regex = new Regex(regra);
 
                             string placa;
@@ -131,6 +131,8 @@ namespace Automovel
                             cl.direcaoHidraulica();
                             Console.WriteLine("Adicionando vidro elétrico");
                             cl.vidroEletrico();
+
+                            cl.QuantoCusta();
 
                             Thread.Sleep(1000);
                             Console.WriteLine("Dê enter para voltar ao Menu");
