@@ -13,3 +13,4 @@ AS
         WHERE 
             [Id] = @StudentId
     COMMIT
+GO

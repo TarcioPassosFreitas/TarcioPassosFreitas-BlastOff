@@ -17,3 +17,4 @@ AS
         AND [StudentCourse].[Progress] > 0
     ORDER BY
         [StudentCourse].[LastUpdateDate] DESC
+GO
