@@ -1,5 +1,5 @@
 CREATE DATABASE Universidade;
-
+drop database Universidade;
 USE Universidade;
 
 create table Alunos (
@@ -84,7 +84,14 @@ insert into Historico values('2015010101', 'BD', '1', '212131', '2015', '100', '
 
 select MAT from Historico where Historico.COD_DISC = 'BD' and Historico.ano = '2015' and Historico.nota < 5;
 
-select MAT, AVG(Historico.nota) as Media from Historico where Historico.COD_DISC = 'POO' and Historico.ano = '2015';
+create view media as(
+	select MAT, AVG(Historico.nota) as Media from Historico where Historico.COD_DISC = 'POO' and Historico.ano = '2015'
+);
+
+select * from media;
+-- select MAT, AVG(Historico.nota) as Media from Historico where Historico.COD_DISC = 'POO' and Historico.ano = '2015';
+
+select * from media where Media > 6;
 
 select COUNT(MAT) as Quantidade from Alunos where cidade != 'NATAL';
 

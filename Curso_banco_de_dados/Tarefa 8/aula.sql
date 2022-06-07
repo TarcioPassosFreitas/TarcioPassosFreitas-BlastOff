@@ -19,22 +19,34 @@ CREATE TABLE compra (
 );
 
 drop procedure novoAluno;
-
+create view maior as(
+	select max(Aluno.id) from Aluno
+);
 delimiter $$
 create procedure novoAluno(in entrada_nome varchar(50), in entrada_idade int, in entrada_email varchar(100))
 begin
-	
+	declare aux int;
+    set aux = (select * from maior);
+    
     insert into Aluno(nome, idade, email)
 	values(entrada_nome, entrada_idade, entrada_email);
     
     SET SQL_SAFE_UPDATES = 0;
+    update Aluno
+    set idade = 20
+    where Aluno.id = aux;
+    
     delete from Aluno 
     where Aluno.id % 2 = 0;
     
 end $$
 delimiter ;
 
+
+
 call novoAluno('Tarcio', 23, 'tarcio@gmail.com');
+
+select * from Aluno;
 
 SET GLOBAL log_bin_trust_function_creators = 1;
 delimiter $$
